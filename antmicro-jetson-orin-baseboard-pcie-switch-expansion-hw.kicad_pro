@@ -876,7 +876,7 @@
         "uuid": "9f8272ef-d62d-4578-9094-a2852fcd4bf4"
       }
     ],
-    "used_designators": "J1-8,H1-8,#FLG1-3,#FLG5-6,A1-2,MP1-2,C1-37,U1,D1-2,N1,#PWR1-5,#PWR34-51,#PWR56,#PWR70-71,#PWR319-320,SP1,SP8-9,M1,M3-4,R1-6,R20,R33,R35,R37-42,R143-144,TP1-15",
+    "used_designators": "J1-8,J501-503,H1-8,H501-503,#FLG1-3,#FLG5-6,A1-2,MP1-2,C1-37,C501-518,U1,D1-2,D503-505,N1,#PWR1-7,#PWR34-51,#PWR56,#PWR70-71,#PWR319-320,#PWR505-517,SP1,SP8-9,M1,M3-4,M501-503,R1-6,R20,R33,R35,R37-42,R143-144,R501-512,TP1-15,TP501-512",
     "variants": []
   },
   "sheets": [
@@ -885,7 +885,7 @@
       "Root"
     ],
     [
-      "b520f7da-65f4-4419-be8d-4f9bcc14d686",
+      "b5c79c47-5cbe-4246-8e95-1b16ae33d230",
       "M.2"
     ],
     [
@@ -905,8 +905,12 @@
       "PCIe Switch"
     ],
     [
-      "aafe310a-f3f3-48dd-8b8a-f85340a9e961",
+      "31e02060-3da3-4672-957a-70d1fbeafe0b",
       "M.2"
+    ],
+    [
+      "893b7393-1fb2-4231-9ebd-b3f97e74b7e4",
+      "PCIe Mux"
     ]
   ],
   "text_variables": {},
