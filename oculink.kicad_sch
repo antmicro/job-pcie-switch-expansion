@@ -1305,6 +1305,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TODO: connect PCIe indicator signals\n"
+		(exclude_from_sim no)
+		(at 121.412 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "448f5720-1a6f-417d-9bf2-9a5109e33842")
+	)
 	(junction
 		(at 168.91 135.89)
 		(diameter 0)
