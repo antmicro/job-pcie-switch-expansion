@@ -2194,7 +2194,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
@@ -2326,7 +2326,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(page "7")
+					(page "3")
 				)
 			)
 		)
@@ -2412,7 +2412,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(page "8")
+					(page "7")
 				)
 			)
 		)
@@ -2478,7 +2478,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(page "4")
+					(page "8")
 				)
 			)
 		)
@@ -2600,7 +2600,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(page "3")
+					(page "5")
 				)
 			)
 		)

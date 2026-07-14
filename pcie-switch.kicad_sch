@@ -2638,6 +2638,39 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "PCIe_{x2_0}{PCIe}"
+		(shape bidirectional)
+		(at 259.08 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "129241f1-0c0b-4e67-8690-b0ed3fff3a74")
+	)
+	(hierarchical_label "PCIe_{x2_1}{PCIe}"
+		(shape bidirectional)
+		(at 259.08 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "70dc8356-671b-4035-af54-7d6db085f032")
+	)
+	(hierarchical_label "PCIe_{x2}{PCIe}"
+		(shape bidirectional)
+		(at 25.4 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "766ae3ad-7502-43c8-a27c-302b2c23092a")
+	)
 	(symbol
 		(lib_id "antmicroInterfaceControllers:PI7C9X3G606GPCFCAEX")
 		(at 119.38 163.83 0)

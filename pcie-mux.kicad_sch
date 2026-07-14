@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "726f63e3-eb7f-4ca2-970a-82b0cda467b0")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "SEL"
+		(shape input)
+		(at 50.8 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35f92bd4-6332-4b16-96d9-3c46ebe0f98d")
+	)
+	(hierarchical_label "PCIe_{x2}{PCIe}"
+		(shape bidirectional)
+		(at 50.8 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51aaeaf1-c0a1-4137-ac86-579af5d6bc01")
+	)
+	(hierarchical_label "Mux_PCIe_{x2_1}{PCIe}"
+		(shape bidirectional)
+		(at 140.97 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "71792122-6c5e-44a8-b9fb-52a9752db4c4")
+	)
+	(hierarchical_label "Mux_PCIe_{x2_0}{PCIe}"
+		(shape bidirectional)
+		(at 140.97 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8463ae8d-0738-459e-b55d-0a329007d701")
+	)
+)

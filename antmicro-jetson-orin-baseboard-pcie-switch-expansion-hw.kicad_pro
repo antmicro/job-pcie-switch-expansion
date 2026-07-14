@@ -876,7 +876,7 @@
         "uuid": "9f8272ef-d62d-4578-9094-a2852fcd4bf4"
       }
     ],
-    "used_designators": "J1-8,J501-503,H1-8,H501-503,#FLG1-3,#FLG5-6,A1-2,MP1-2,C1-37,C501-518,U1,D1-2,D503-505,N1,#PWR1-7,#PWR34-51,#PWR56,#PWR70-71,#PWR319-320,#PWR505-517,SP1,SP8-9,M1,M3-4,M501-503,R1-6,R20,R33,R35,R37-42,R143-144,R501-512,TP1-15,TP501-512",
+    "used_designators": "J1-8,J501-503,H1-8,H501-503,#FLG1-3,#FLG5-6,A1-2,MP1-2,C1-37,C501-518,U1,D1-2,D503-505,N1,#PWR1-8,#PWR34-51,#PWR56,#PWR70-71,#PWR319-320,#PWR505-517,SP1,SP8-9,M1,M3-4,M501-503,R1-6,R20,R33,R35,R37-42,R143-144,R501-512,TP1-15,TP501-512",
     "variants": []
   },
   "sheets": [
@@ -889,28 +889,28 @@
       "M.2"
     ],
     [
-      "e2953c32-de4d-49db-967a-cd128c95e407",
-      "Expansion Connector"
-    ],
-    [
-      "b2048f45-d77d-4bd2-929a-db82e576fe70",
-      "Supply"
+      "31e02060-3da3-4672-957a-70d1fbeafe0b",
+      "M.2"
     ],
     [
       "060dd0bf-c233-41b0-b6a6-fedf78cecf6f",
       "OCuLink"
     ],
     [
+      "e2953c32-de4d-49db-967a-cd128c95e407",
+      "Expansion Connector"
+    ],
+    [
       "0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee",
       "PCIe Switch"
     ],
     [
-      "31e02060-3da3-4672-957a-70d1fbeafe0b",
-      "M.2"
-    ],
-    [
       "893b7393-1fb2-4231-9ebd-b3f97e74b7e4",
       "PCIe Mux"
+    ],
+    [
+      "b2048f45-d77d-4bd2-929a-db82e576fe70",
+      "Supply"
     ]
   ],
   "text_variables": {},
