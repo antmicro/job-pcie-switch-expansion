@@ -3251,6 +3251,16 @@
 		)
 		(uuid "72a6b22c-9daa-4969-aa36-e3513963cd96")
 	)
+	(text "TODO: add 0R on PCIe RX/TX lines (?)"
+		(exclude_from_sim no)
+		(at 68.58 76.708 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b78b9a85-3de5-4bd3-a47c-a796ca9e190f")
+	)
 	(text "Note:\nPlace close to\npins 12,14,16,18"
 		(exclude_from_sim no)
 		(at 186.69 60.96 0)

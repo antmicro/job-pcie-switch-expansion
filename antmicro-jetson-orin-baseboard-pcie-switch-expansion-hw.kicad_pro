@@ -466,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -876,7 +876,7 @@
         "uuid": "9f8272ef-d62d-4578-9094-a2852fcd4bf4"
       }
     ],
-    "used_designators": "TP1-15,TP501-512,J1-8,J501-503,H1-8,H501-503,#FLG1-6,A1-2,MP1-2,C1-37,C501-518,D1-2,D503-505,U1,N1,#PWR1-10,#PWR34-51,#PWR56,#PWR70-71,#PWR319-320,#PWR505-517,SP1,SP8-9,R1-6,R20,R33,R35,R37-42,R143-144,R501-512,M1,M3-4,M501-503",
+    "used_designators": "L1-3,L302,RT1,Q1,Q5,SP1,SP8-9,TP1-15,TP54,TP309,TP501-512,R1-29,R33,R35,R37-42,R66,R71,R95,R97,R143-144,R146-148,R173,R176-178,R238,R240,R264,R311-312,R320-321,R323,R327,R355,R501-512,M1,M3-4,M501-503,J1-8,J501-503,H1-8,H501-503,#FLG1-8,A1-2,MP1-2,C1-37,C81-83,C87-91,C121-123,C125-128,C151,C154-155,C306,C309,C314,C317,C501-518,D1-2,D17,D33,D306,D503-505,U1-3,U5,U21,U40,U302,N1,#PWR1-51,#PWR56,#PWR70-71,#PWR78,#PWR171-172,#PWR175,#PWR179,#PWR184,#PWR187-191,#PWR273,#PWR292-293,#PWR317,#PWR319-320,#PWR322-323,#PWR325-326,#PWR331,#PWR333-349,#PWR505-517",
     "variants": []
   },
   "sheets": [
