@@ -853,7 +853,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 113.03) (xy 237.49 113.03)
+			(xy 232.41 116.84) (xy 234.95 116.84)
 		)
 		(stroke
 			(width 0)
@@ -903,6 +903,16 @@
 	)
 	(bus
 		(pts
+			(xy 254 97.79) (xy 256.54 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fa75e7b-0d9f-4df7-8d48-378df40542a2")
+	)
+	(bus
+		(pts
 			(xy 290.83 90.17) (xy 302.26 90.17)
 		)
 		(stroke
@@ -910,6 +920,16 @@
 			(type default)
 		)
 		(uuid "6133bbfa-f0b2-4429-b2e6-b42ab9e42fbb")
+	)
+	(bus
+		(pts
+			(xy 254 68.58) (xy 254 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66eea151-c64b-4fc6-999e-045fc49a706a")
 	)
 	(wire
 		(pts
@@ -1081,9 +1101,19 @@
 		)
 		(uuid "d3b83891-4cc4-443d-973a-5fe2714e375e")
 	)
+	(bus
+		(pts
+			(xy 257.81 68.58) (xy 254 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e0bc85-d16f-4e90-8a9c-c0f8fb039f92")
+	)
 	(wire
 		(pts
-			(xy 232.41 99.06) (xy 232.41 113.03)
+			(xy 232.41 116.84) (xy 232.41 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2727,6 +2757,26 @@
 				(justify left)
 			)
 		)
+		(pin "{I_{2}C}" bidirectional
+			(at 270.51 102.87 270)
+			(uuid "169f3438-db6f-49c9-91df-1a18d281015b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{SPI}" bidirectional
+			(at 256.54 97.79 180)
+			(uuid "f6a976b1-8c5b-42b7-b32e-4dbf2cd7534f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
@@ -2787,6 +2837,62 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 257.81 53.34)
+		(size 21.59 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "565f5929-c43e-425e-8cd0-1d9c6e87102d")
+		(property "Sheetname" "Tag Connect, EEPROM"
+			(at 257.81 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eeprom_tagconnect.kicad_sch"
+			(at 257.81 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "{SPI}" bidirectional
+			(at 257.81 68.58 180)
+			(uuid "c57cb797-c601-404f-9581-01185b568ca9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
+					(page "9")
 				)
 			)
 		)
@@ -2878,7 +2984,7 @@
 		)
 	)
 	(sheet
-		(at 237.49 109.22)
+		(at 234.95 113.03)
 		(size 19.05 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2894,7 +3000,7 @@
 		)
 		(uuid "b2048f45-d77d-4bd2-929a-db82e576fe70")
 		(property "Sheetname" "Supply"
-			(at 237.49 108.5084 0)
+			(at 234.95 112.3184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2905,7 +3011,7 @@
 			)
 		)
 		(property "Sheetfile" "supply.kicad_sch"
-			(at 237.49 122.5046 0)
+			(at 234.95 126.3146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2916,7 +3022,7 @@
 			)
 		)
 		(pin "POWER_EN" input
-			(at 237.49 113.03 180)
+			(at 234.95 116.84 180)
 			(uuid "6950bad0-2a4b-425c-aab8-080ba2132528")
 			(effects
 				(font

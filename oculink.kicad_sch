@@ -2892,8 +2892,16 @@
 		(uuid "d9abc188-ba15-4b03-84aa-39aeb4880bf3")
 	)
 	(no_connect
+		(at 139.7 57.15)
+		(uuid "daddc18c-e745-4606-ab12-e64a51f5bbc3")
+	)
+	(no_connect
 		(at 139.7 105.41)
 		(uuid "e8fa9737-ef8c-49d3-a05b-30fcb5299dfd")
+	)
+	(no_connect
+		(at 139.7 54.61)
+		(uuid "eaca2a1a-3c02-476b-b44f-d893bc4b67c6")
 	)
 	(no_connect
 		(at 139.7 133.35)
