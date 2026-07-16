@@ -2734,17 +2734,6 @@
 		)
 		(uuid "5e139c05-f12c-4748-9fae-e1b12b2ac7a0")
 	)
-	(text "SYS_SCL"
-		(exclude_from_sim no)
-		(at 133.985 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "628f0fe5-0bc7-4257-b75a-78ede1b229f5")
-	)
 	(text "I2C2_SCL"
 		(exclude_from_sim no)
 		(at 156.845 124.46 0)
@@ -2865,17 +2854,6 @@
 			(justify left bottom)
 		)
 		(uuid "b07061e4-6219-47b9-a3b4-f5d476754216")
-	)
-	(text "SYS_SDA"
-		(exclude_from_sim no)
-		(at 133.985 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bddb26ed-5e86-427a-94de-2a7b3d5e7391")
 	)
 	(text "PCIE_WAKE_SEL_EXT_CONN"
 		(exclude_from_sim no)
@@ -3213,10 +3191,6 @@
 		(uuid "6e38dc10-e007-4d44-a8d1-cbb2d9854eb1")
 	)
 	(no_connect
-		(at 144.78 123.19)
-		(uuid "7dfb58df-4e34-48b1-88b9-90c4ea415656")
-	)
-	(no_connect
 		(at 118.11 133.35)
 		(uuid "9207f20f-6d84-4734-9090-10b379d0d950")
 	)
@@ -3277,10 +3251,6 @@
 		(uuid "d76d839c-86dd-4416-ad98-7ad9b477d829")
 	)
 	(no_connect
-		(at 144.78 120.65)
-		(uuid "d7e0b07e-23be-4591-a2c8-957d7528ef85")
-	)
-	(no_connect
 		(at 156.21 69.85)
 		(uuid "d9063f31-8903-4f16-b00e-22b81c6cd85f")
 	)
@@ -3304,6 +3274,15 @@
 			(type default)
 		)
 		(uuid "04322031-0755-4571-906d-767c0568db98")
+	)
+	(bus_entry
+		(at 130.81 118.11)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04a05d6d-b1e8-43fe-9151-970cddeaefd1")
 	)
 	(bus_entry
 		(at 110.49 49.53)
@@ -3358,6 +3337,15 @@
 			(type default)
 		)
 		(uuid "a89150fa-b02a-4e4c-9330-3dc8b4a312b7")
+	)
+	(bus_entry
+		(at 130.81 120.65)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0662149-ab39-45c5-a3cd-eb531000290e")
 	)
 	(bus_entry
 		(at 113.03 62.23)
@@ -3784,6 +3772,16 @@
 		)
 		(uuid "781a6dea-083e-408f-a836-c5d14bbff6f0")
 	)
+	(wire
+		(pts
+			(xy 133.35 123.19) (xy 144.78 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "788bcb41-34f2-4179-91de-c0329191a2f7")
+	)
 	(bus
 		(pts
 			(xy 110.49 74.93) (xy 110.49 38.1)
@@ -3976,6 +3974,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 120.65) (xy 144.78 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13f9d53-d806-4736-86a0-be7e09f70ecb")
+	)
+	(wire
+		(pts
 			(xy 156.21 138.43) (xy 163.83 138.43)
 		)
 		(stroke
@@ -4083,6 +4091,16 @@
 			(type default)
 		)
 		(uuid "c4ffc121-cf1d-4b73-a10f-c77cfabbcf5e")
+	)
+	(bus
+		(pts
+			(xy 130.81 116.84) (xy 129.54 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c622a837-ba77-45c8-8cfc-ae07179f59af")
 	)
 	(wire
 		(pts
@@ -4274,6 +4292,16 @@
 		)
 		(uuid "e16c386f-6179-4929-b520-c42e7da6c37f")
 	)
+	(bus
+		(pts
+			(xy 130.81 116.84) (xy 130.81 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e33bf9b9-e1fc-4126-b89d-5da52a0e1430")
+	)
 	(wire
 		(pts
 			(xy 171.45 139.7) (xy 171.45 140.97)
@@ -4394,6 +4422,16 @@
 		)
 		(uuid "4b1e06a1-f73a-4e50-badd-18ad8302e3f7")
 	)
+	(label "SDA"
+		(at 134.62 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "509c2359-79b0-4823-8b9b-76878aac4273")
+	)
 	(label "PCIe_{x2}.RX0_P"
 		(at 170.18 57.15 0)
 		(effects
@@ -4494,6 +4532,16 @@
 		)
 		(uuid "d20a72d8-34bd-4f1a-ad65-7ef872818edf")
 	)
+	(label "SCL"
+		(at 134.62 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7ad5f57-7139-4500-9963-f54a82552091")
+	)
 	(global_label "3V3_STDB"
 		(shape input)
 		(at 176.53 133.35 0)
@@ -4528,6 +4576,17 @@
 			(justify right)
 		)
 		(uuid "30907228-0052-49f1-bd38-9d112d16e048")
+	)
+	(hierarchical_label "{I_{2}C}"
+		(shape bidirectional)
+		(at 129.54 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d6d1e1d-179e-4da1-84e3-422f9707ff0c")
 	)
 	(hierarchical_label "POWER_EN"
 		(shape output)
