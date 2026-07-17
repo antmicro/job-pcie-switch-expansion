@@ -823,13 +823,23 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 99.06) (xy 232.41 99.06)
+			(xy 229.87 102.87) (xy 236.22 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "02f0be7b-ef6e-4ac4-b96d-9d1cc2081ad3")
+	)
+	(bus
+		(pts
+			(xy 251.46 101.6) (xy 256.54 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "183c4646-1bdc-4bfa-abe4-4762597616a5")
 	)
 	(wire
 		(pts
@@ -843,6 +853,16 @@
 	)
 	(bus
 		(pts
+			(xy 247.65 95.25) (xy 247.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d22bf66-a1f0-43ec-8c1d-f9e8edf0ebdd")
+	)
+	(bus
+		(pts
 			(xy 332.74 116.84) (xy 336.55 116.84)
 		)
 		(stroke
@@ -851,9 +871,19 @@
 		)
 		(uuid "2b79091a-e6d6-427c-a88c-47f8ac0844e9")
 	)
+	(bus
+		(pts
+			(xy 247.65 106.68) (xy 256.54 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36d3f182-f04c-4f6b-869a-f8e3f1890687")
+	)
 	(wire
 		(pts
-			(xy 232.41 116.84) (xy 234.95 116.84)
+			(xy 236.22 127) (xy 256.54 127)
 		)
 		(stroke
 			(width 0)
@@ -931,15 +961,15 @@
 		)
 		(uuid "66eea151-c64b-4fc6-999e-045fc49a706a")
 	)
-	(wire
+	(bus
 		(pts
-			(xy 44.1451 260.35) (xy 41.91 260.35)
+			(xy 251.46 59.69) (xy 251.46 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6d03b3cb-c72c-4570-add4-237b3b59b1c1")
+		(uuid "6984fc57-993b-48c3-9c97-62506c055654")
 	)
 	(bus
 		(pts
@@ -950,6 +980,26 @@
 			(type default)
 		)
 		(uuid "736c05e3-0b10-40ce-a983-786978cb4c3c")
+	)
+	(wire
+		(pts
+			(xy 241.3 99.06) (xy 241.3 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77df8964-7a6e-4fc8-8069-9422196206d7")
+	)
+	(bus
+		(pts
+			(xy 229.87 95.25) (xy 247.65 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dd44f48-5f13-445a-bb11-d6355f562f04")
 	)
 	(wire
 		(pts
@@ -970,6 +1020,16 @@
 			(type default)
 		)
 		(uuid "89ce2ebd-84bc-4ec9-9a3f-66454a8ae2bb")
+	)
+	(bus
+		(pts
+			(xy 257.81 59.69) (xy 251.46 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c24e96d-e469-425d-8c80-6f91cbd0d4fa")
 	)
 	(bus
 		(pts
@@ -1063,6 +1123,26 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 99.06) (xy 241.3 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5cef9e1-b397-4342-95de-f8049348c7b0")
+	)
+	(wire
+		(pts
+			(xy 241.3 116.84) (xy 302.26 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6409416-688e-4451-a392-667352c8fb2d")
+	)
+	(wire
+		(pts
 			(xy 40.64 254) (xy 41.91 254)
 		)
 		(stroke
@@ -1113,7 +1193,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 116.84) (xy 232.41 99.06)
+			(xy 236.22 127) (xy 236.22 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1167,7 +1247,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -2547,7 +2627,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.64 275.59 0)
+			(at 43.18 271.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2555,6 +2635,7 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -2691,7 +2772,7 @@
 	)
 	(sheet
 		(at 256.54 86.36)
-		(size 34.29 16.51)
+		(size 34.29 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2717,7 +2798,7 @@
 			)
 		)
 		(property "Sheetfile" "pcie-switch.kicad_sch"
-			(at 256.54 103.4546 0)
+			(at 256.54 111.0746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2758,7 +2839,7 @@
 			)
 		)
 		(pin "{I_{2}C}" bidirectional
-			(at 270.51 102.87 270)
+			(at 256.54 106.68 180)
 			(uuid "169f3438-db6f-49c9-91df-1a18d281015b")
 			(effects
 				(font
@@ -2770,6 +2851,16 @@
 		(pin "{SPI}" bidirectional
 			(at 256.54 97.79 180)
 			(uuid "f6a976b1-8c5b-42b7-b32e-4dbf2cd7534f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{JTAG}" bidirectional
+			(at 256.54 101.6 180)
+			(uuid "fc46e010-cadc-4dcb-94b2-67d69f5b4f44")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,6 +2980,16 @@
 				(justify left)
 			)
 		)
+		(pin "{JTAG}" bidirectional
+			(at 257.81 59.69 180)
+			(uuid "4cd8996c-3db1-444a-9385-e28689a5c339")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
@@ -2984,7 +3085,7 @@
 		)
 	)
 	(sheet
-		(at 234.95 113.03)
+		(at 256.54 123.19)
 		(size 19.05 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3000,7 +3101,7 @@
 		)
 		(uuid "b2048f45-d77d-4bd2-929a-db82e576fe70")
 		(property "Sheetname" "Supply"
-			(at 234.95 112.3184 0)
+			(at 256.54 122.4784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3011,7 +3112,7 @@
 			)
 		)
 		(property "Sheetfile" "supply.kicad_sch"
-			(at 234.95 126.3146 0)
+			(at 256.54 136.4746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3022,7 +3123,7 @@
 			)
 		)
 		(pin "POWER_EN" input
-			(at 234.95 116.84 180)
+			(at 256.54 127 180)
 			(uuid "6950bad0-2a4b-425c-aab8-080ba2132528")
 			(effects
 				(font
@@ -3097,7 +3198,7 @@
 	)
 	(sheet
 		(at 200.66 86.36)
-		(size 29.21 16.51)
+		(size 29.21 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3123,7 +3224,7 @@
 			)
 		)
 		(property "Sheetfile" "expansion-conn.kicad_sch"
-			(at 200.66 103.4546 0)
+			(at 200.66 105.9946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3134,7 +3235,7 @@
 			)
 		)
 		(pin "POWER_EN" output
-			(at 229.87 99.06 0)
+			(at 229.87 102.87 0)
 			(uuid "f7c65f83-2880-4fa3-8ef9-98c81c3d3574")
 			(effects
 				(font
@@ -3146,6 +3247,26 @@
 		(pin "PCIe_{x2}{PCIe}" bidirectional
 			(at 229.87 91.44 0)
 			(uuid "29dc296d-8aa9-462e-b6a3-25ad6fc0a818")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "{I_{2}C}" bidirectional
+			(at 229.87 95.25 0)
+			(uuid "cde910a3-adde-4a07-a6cd-ff9de8ffa6ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SEL" input
+			(at 229.87 99.06 0)
+			(uuid "278be060-4967-428b-8fa9-e320a4eeeb43")
 			(effects
 				(font
 					(size 1.27 1.27)
