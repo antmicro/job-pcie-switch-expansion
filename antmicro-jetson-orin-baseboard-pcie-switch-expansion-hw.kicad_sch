@@ -823,7 +823,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 102.87) (xy 236.22 102.87)
+			(xy 167.64 140.97) (xy 173.99 140.97)
 		)
 		(stroke
 			(width 0)
@@ -833,7 +833,7 @@
 	)
 	(bus
 		(pts
-			(xy 251.46 101.6) (xy 256.54 101.6)
+			(xy 189.23 139.7) (xy 194.31 139.7)
 		)
 		(stroke
 			(width 0)
@@ -853,7 +853,7 @@
 	)
 	(bus
 		(pts
-			(xy 247.65 95.25) (xy 247.65 106.68)
+			(xy 185.42 133.35) (xy 185.42 144.78)
 		)
 		(stroke
 			(width 0)
@@ -863,7 +863,7 @@
 	)
 	(bus
 		(pts
-			(xy 332.74 116.84) (xy 336.55 116.84)
+			(xy 270.51 154.94) (xy 274.32 154.94)
 		)
 		(stroke
 			(width 0)
@@ -873,7 +873,7 @@
 	)
 	(bus
 		(pts
-			(xy 247.65 106.68) (xy 256.54 106.68)
+			(xy 185.42 144.78) (xy 194.31 144.78)
 		)
 		(stroke
 			(width 0)
@@ -883,7 +883,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 127) (xy 256.54 127)
+			(xy 173.99 165.1) (xy 194.31 165.1)
 		)
 		(stroke
 			(width 0)
@@ -903,7 +903,7 @@
 	)
 	(bus
 		(pts
-			(xy 294.64 97.79) (xy 294.64 113.03)
+			(xy 232.41 135.89) (xy 232.41 151.13)
 		)
 		(stroke
 			(width 0)
@@ -923,7 +923,7 @@
 	)
 	(bus
 		(pts
-			(xy 340.36 104.14) (xy 336.55 104.14)
+			(xy 278.13 142.24) (xy 274.32 142.24)
 		)
 		(stroke
 			(width 0)
@@ -933,7 +933,7 @@
 	)
 	(bus
 		(pts
-			(xy 254 97.79) (xy 256.54 97.79)
+			(xy 191.77 135.89) (xy 194.31 135.89)
 		)
 		(stroke
 			(width 0)
@@ -943,7 +943,7 @@
 	)
 	(bus
 		(pts
-			(xy 290.83 90.17) (xy 302.26 90.17)
+			(xy 228.6 128.27) (xy 240.03 128.27)
 		)
 		(stroke
 			(width 0)
@@ -953,7 +953,7 @@
 	)
 	(bus
 		(pts
-			(xy 254 68.58) (xy 254 97.79)
+			(xy 191.77 106.68) (xy 191.77 135.89)
 		)
 		(stroke
 			(width 0)
@@ -963,7 +963,7 @@
 	)
 	(bus
 		(pts
-			(xy 251.46 59.69) (xy 251.46 101.6)
+			(xy 189.23 97.79) (xy 189.23 139.7)
 		)
 		(stroke
 			(width 0)
@@ -973,7 +973,7 @@
 	)
 	(bus
 		(pts
-			(xy 290.83 97.79) (xy 294.64 97.79)
+			(xy 228.6 135.89) (xy 232.41 135.89)
 		)
 		(stroke
 			(width 0)
@@ -983,7 +983,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 99.06) (xy 241.3 116.84)
+			(xy 179.07 137.16) (xy 179.07 154.94)
 		)
 		(stroke
 			(width 0)
@@ -993,7 +993,7 @@
 	)
 	(bus
 		(pts
-			(xy 229.87 95.25) (xy 247.65 95.25)
+			(xy 167.64 133.35) (xy 185.42 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1013,7 +1013,7 @@
 	)
 	(bus
 		(pts
-			(xy 336.55 116.84) (xy 336.55 123.19)
+			(xy 274.32 154.94) (xy 274.32 161.29)
 		)
 		(stroke
 			(width 0)
@@ -1023,7 +1023,7 @@
 	)
 	(bus
 		(pts
-			(xy 257.81 59.69) (xy 251.46 59.69)
+			(xy 195.58 97.79) (xy 189.23 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1033,7 +1033,7 @@
 	)
 	(bus
 		(pts
-			(xy 294.64 113.03) (xy 302.26 113.03)
+			(xy 232.41 151.13) (xy 240.03 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1063,7 +1063,7 @@
 	)
 	(bus
 		(pts
-			(xy 229.87 91.44) (xy 256.54 91.44)
+			(xy 167.64 129.54) (xy 194.31 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1083,7 +1083,7 @@
 	)
 	(bus
 		(pts
-			(xy 336.55 104.14) (xy 336.55 109.22)
+			(xy 274.32 142.24) (xy 274.32 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1123,7 +1123,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 99.06) (xy 241.3 99.06)
+			(xy 167.64 137.16) (xy 179.07 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1133,7 +1133,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 116.84) (xy 302.26 116.84)
+			(xy 179.07 154.94) (xy 240.03 154.94)
 		)
 		(stroke
 			(width 0)
@@ -1153,7 +1153,7 @@
 	)
 	(bus
 		(pts
-			(xy 336.55 109.22) (xy 332.74 109.22)
+			(xy 274.32 147.32) (xy 270.51 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1183,7 +1183,7 @@
 	)
 	(bus
 		(pts
-			(xy 257.81 68.58) (xy 254 68.58)
+			(xy 195.58 106.68) (xy 191.77 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1193,7 +1193,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 127) (xy 236.22 102.87)
+			(xy 173.99 165.1) (xy 173.99 140.97)
 		)
 		(stroke
 			(width 0)
@@ -1223,7 +1223,7 @@
 	)
 	(bus
 		(pts
-			(xy 336.55 123.19) (xy 340.36 123.19)
+			(xy 274.32 161.29) (xy 278.13 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2715,7 +2715,7 @@
 		)
 	)
 	(sheet
-		(at 340.36 97.79)
+		(at 278.13 135.89)
 		(size 21.59 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2731,7 +2731,7 @@
 		)
 		(uuid "060dd0bf-c233-41b0-b6a6-fedf78cecf6f")
 		(property "Sheetname" "OCuLink"
-			(at 340.36 97.0784 0)
+			(at 278.13 135.1784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2742,7 +2742,7 @@
 			)
 		)
 		(property "Sheetfile" "oculink.kicad_sch"
-			(at 340.36 111.0746 0)
+			(at 278.13 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2753,7 +2753,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 340.36 104.14 180)
+			(at 278.13 142.24 180)
 			(uuid "ef0a61db-429b-48e6-a611-49d2c3628939")
 			(effects
 				(font
@@ -2771,7 +2771,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 86.36)
+		(at 194.31 124.46)
 		(size 34.29 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2787,7 +2787,7 @@
 		)
 		(uuid "0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee")
 		(property "Sheetname" "PCIe Switch"
-			(at 256.54 85.6484 0)
+			(at 194.31 123.7484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2798,7 +2798,7 @@
 			)
 		)
 		(property "Sheetfile" "pcie-switch.kicad_sch"
-			(at 256.54 111.0746 0)
+			(at 194.31 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2809,7 +2809,7 @@
 			)
 		)
 		(pin "PCIe_{x2_0}{PCIe}" bidirectional
-			(at 290.83 90.17 0)
+			(at 228.6 128.27 0)
 			(uuid "d026d7c6-331e-4cc0-ab92-cd9af3798a11")
 			(effects
 				(font
@@ -2819,7 +2819,7 @@
 			)
 		)
 		(pin "PCIe_{x2_1}{PCIe}" bidirectional
-			(at 290.83 97.79 0)
+			(at 228.6 135.89 0)
 			(uuid "1817e95f-f419-4f55-8039-609b966a1440")
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 256.54 91.44 180)
+			(at 194.31 129.54 180)
 			(uuid "71c69605-1e44-4c9d-ae42-8f21899f7f2f")
 			(effects
 				(font
@@ -2839,7 +2839,7 @@
 			)
 		)
 		(pin "{I_{2}C}" bidirectional
-			(at 256.54 106.68 180)
+			(at 194.31 144.78 180)
 			(uuid "169f3438-db6f-49c9-91df-1a18d281015b")
 			(effects
 				(font
@@ -2849,7 +2849,7 @@
 			)
 		)
 		(pin "{SPI}" bidirectional
-			(at 256.54 97.79 180)
+			(at 194.31 135.89 180)
 			(uuid "f6a976b1-8c5b-42b7-b32e-4dbf2cd7534f")
 			(effects
 				(font
@@ -2859,7 +2859,7 @@
 			)
 		)
 		(pin "{JTAG}" bidirectional
-			(at 256.54 101.6 180)
+			(at 194.31 139.7 180)
 			(uuid "fc46e010-cadc-4dcb-94b2-67d69f5b4f44")
 			(effects
 				(font
@@ -2877,7 +2877,7 @@
 		)
 	)
 	(sheet
-		(at 340.36 116.84)
+		(at 278.13 154.94)
 		(size 21.59 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2893,7 +2893,7 @@
 		)
 		(uuid "31e02060-3da3-4672-957a-70d1fbeafe0b")
 		(property "Sheetname" "M.2 port B"
-			(at 340.36 116.1284 0)
+			(at 278.13 154.2284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2904,7 +2904,7 @@
 			)
 		)
 		(property "Sheetfile" "m-2.kicad_sch"
-			(at 340.36 130.1246 0)
+			(at 278.13 168.2246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2915,7 +2915,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 340.36 123.19 180)
+			(at 278.13 161.29 180)
 			(uuid "2cdc69b3-451b-48b6-9629-ba338a857b23")
 			(effects
 				(font
@@ -2933,7 +2933,7 @@
 		)
 	)
 	(sheet
-		(at 257.81 53.34)
+		(at 195.58 91.44)
 		(size 21.59 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2949,7 +2949,7 @@
 		)
 		(uuid "565f5929-c43e-425e-8cd0-1d9c6e87102d")
 		(property "Sheetname" "Tag Connect, EEPROM"
-			(at 257.81 52.6284 0)
+			(at 195.58 90.7284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2960,7 +2960,7 @@
 			)
 		)
 		(property "Sheetfile" "eeprom_tagconnect.kicad_sch"
-			(at 257.81 71.7046 0)
+			(at 195.58 109.8046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2971,7 +2971,7 @@
 			)
 		)
 		(pin "{SPI}" bidirectional
-			(at 257.81 68.58 180)
+			(at 195.58 106.68 180)
 			(uuid "c57cb797-c601-404f-9581-01185b568ca9")
 			(effects
 				(font
@@ -2981,7 +2981,7 @@
 			)
 		)
 		(pin "{JTAG}" bidirectional
-			(at 257.81 59.69 180)
+			(at 195.58 97.79 180)
 			(uuid "4cd8996c-3db1-444a-9385-e28689a5c339")
 			(effects
 				(font
@@ -2999,7 +2999,7 @@
 		)
 	)
 	(sheet
-		(at 302.26 105.41)
+		(at 240.03 143.51)
 		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3015,7 +3015,7 @@
 		)
 		(uuid "893b7393-1fb2-4231-9ebd-b3f97e74b7e4")
 		(property "Sheetname" "PCIe Mux"
-			(at 302.26 104.6984 0)
+			(at 240.03 142.7984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3026,7 +3026,7 @@
 			)
 		)
 		(property "Sheetfile" "pcie-mux.kicad_sch"
-			(at 302.26 121.2346 0)
+			(at 240.03 159.3346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3037,7 +3037,7 @@
 			)
 		)
 		(pin "Mux_PCIe_{x2_0}{PCIe}" bidirectional
-			(at 332.74 109.22 0)
+			(at 270.51 147.32 0)
 			(uuid "f80fd9f7-4ec4-46b6-831c-84f7692bf6d0")
 			(effects
 				(font
@@ -3047,7 +3047,7 @@
 			)
 		)
 		(pin "Mux_PCIe_{x2_1}{PCIe}" bidirectional
-			(at 332.74 116.84 0)
+			(at 270.51 154.94 0)
 			(uuid "4afba33e-7cc0-4b6a-8b0e-d354c88e6d6f")
 			(effects
 				(font
@@ -3057,7 +3057,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 302.26 113.03 180)
+			(at 240.03 151.13 180)
 			(uuid "3cf00f05-7d89-4e28-a785-073cb35475a4")
 			(effects
 				(font
@@ -3067,7 +3067,7 @@
 			)
 		)
 		(pin "SEL" input
-			(at 302.26 116.84 180)
+			(at 240.03 154.94 180)
 			(uuid "84776cf0-4cf7-4d60-b303-8e1325f95993")
 			(effects
 				(font
@@ -3085,7 +3085,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 123.19)
+		(at 194.31 161.29)
 		(size 19.05 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3101,7 +3101,7 @@
 		)
 		(uuid "b2048f45-d77d-4bd2-929a-db82e576fe70")
 		(property "Sheetname" "Supply"
-			(at 256.54 122.4784 0)
+			(at 194.31 160.5784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3112,7 +3112,7 @@
 			)
 		)
 		(property "Sheetfile" "supply.kicad_sch"
-			(at 256.54 136.4746 0)
+			(at 194.31 174.5746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3123,7 +3123,7 @@
 			)
 		)
 		(pin "POWER_EN" input
-			(at 256.54 127 180)
+			(at 194.31 165.1 180)
 			(uuid "6950bad0-2a4b-425c-aab8-080ba2132528")
 			(effects
 				(font
@@ -3141,7 +3141,7 @@
 		)
 	)
 	(sheet
-		(at 302.26 83.82)
+		(at 240.03 121.92)
 		(size 21.59 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3157,7 +3157,7 @@
 		)
 		(uuid "b5c79c47-5cbe-4246-8e95-1b16ae33d230")
 		(property "Sheetname" "M.2 port A"
-			(at 302.26 83.1084 0)
+			(at 240.03 121.2084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3168,7 +3168,7 @@
 			)
 		)
 		(property "Sheetfile" "m-2.kicad_sch"
-			(at 302.26 97.1046 0)
+			(at 240.03 135.2046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3179,7 +3179,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 302.26 90.17 180)
+			(at 240.03 128.27 180)
 			(uuid "195c96af-5d79-4134-a815-d35a64004480")
 			(effects
 				(font
@@ -3197,7 +3197,7 @@
 		)
 	)
 	(sheet
-		(at 200.66 86.36)
+		(at 138.43 124.46)
 		(size 29.21 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3213,7 +3213,7 @@
 		)
 		(uuid "e2953c32-de4d-49db-967a-cd128c95e407")
 		(property "Sheetname" "Expansion Connector"
-			(at 200.66 85.6484 0)
+			(at 138.43 123.7484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3224,7 +3224,7 @@
 			)
 		)
 		(property "Sheetfile" "expansion-conn.kicad_sch"
-			(at 200.66 105.9946 0)
+			(at 138.43 144.0946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3235,7 +3235,7 @@
 			)
 		)
 		(pin "POWER_EN" output
-			(at 229.87 102.87 0)
+			(at 167.64 140.97 0)
 			(uuid "f7c65f83-2880-4fa3-8ef9-98c81c3d3574")
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 			)
 		)
 		(pin "PCIe_{x2}{PCIe}" bidirectional
-			(at 229.87 91.44 0)
+			(at 167.64 129.54 0)
 			(uuid "29dc296d-8aa9-462e-b6a3-25ad6fc0a818")
 			(effects
 				(font
@@ -3255,7 +3255,7 @@
 			)
 		)
 		(pin "{I_{2}C}" bidirectional
-			(at 229.87 95.25 0)
+			(at 167.64 133.35 0)
 			(uuid "cde910a3-adde-4a07-a6cd-ff9de8ffa6ea")
 			(effects
 				(font
@@ -3265,7 +3265,7 @@
 			)
 		)
 		(pin "SEL" input
-			(at 229.87 99.06 0)
+			(at 167.64 137.16 0)
 			(uuid "278be060-4967-428b-8fa9-e320a4eeeb43")
 			(effects
 				(font
