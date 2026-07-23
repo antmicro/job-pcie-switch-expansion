@@ -12616,7 +12616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01a4df4d-fb7d-400c-9b86-c637cd792099")
-		(property "Reference" "R20"
+		(property "Reference" "R118"
 			(at 148.59 242.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12764,7 +12764,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R20")
+					(reference "R118")
 					(unit 1)
 				)
 			)
@@ -12781,7 +12781,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "033bc376-357e-4779-a67d-92a9968ce711")
-		(property "Reference" "#PWR0172"
+		(property "Reference" "#PWR0142"
 			(at 143.51 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12875,7 +12875,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0172")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -12892,7 +12892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cc37c4f-10d8-4866-8d3d-98d82dd1f2ca")
-		(property "Reference" "R81"
+		(property "Reference" "R135"
 			(at 250.19 220.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13051,7 +13051,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R81")
+					(reference "R135")
 					(unit 1)
 				)
 			)
@@ -13068,7 +13068,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e8bb0d0-4e67-4f7d-a458-b031f4a3d58f")
-		(property "Reference" "R147"
+		(property "Reference" "R129"
 			(at 201.93 144.78 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13216,7 +13216,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R147")
+					(reference "R129")
 					(unit 1)
 				)
 			)
@@ -13233,7 +13233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "10b255c2-7bc4-4b6c-97d5-421159861641")
-		(property "Reference" "#PWR0175"
+		(property "Reference" "#PWR0148"
 			(at 163.83 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -13327,7 +13327,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0175")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -13345,7 +13345,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12d9583a-b15b-4a69-b30f-13c84bc48bc4")
-		(property "Reference" "R16"
+		(property "Reference" "R117"
 			(at 144.78 157.48 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13493,7 +13493,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R16")
+					(reference "R117")
 					(unit 1)
 				)
 			)
@@ -13511,7 +13511,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "13085ac0-b592-41b0-a366-85dbf37e0a76")
-		(property "Reference" "C92"
+		(property "Reference" "C80"
 			(at 215.9 223.5136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13671,7 +13671,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C92")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -13688,7 +13688,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "135f91c9-4dac-4f36-9635-cbea6f4db2d1")
-		(property "Reference" "#PWR0346"
+		(property "Reference" "#PWR0163"
 			(at 248.92 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -13781,7 +13781,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0346")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -13799,7 +13799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "140b1042-383c-491f-9d95-7bd2d6668d89")
-		(property "Reference" "C125"
+		(property "Reference" "C81"
 			(at 213.3536 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13956,7 +13956,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C125")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -13973,7 +13973,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18edf2de-2aca-4951-a7e5-36e1b6da6447")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0139"
 			(at 142.24 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -14068,7 +14068,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0116")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -14085,7 +14085,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1924f5e1-ac87-483b-9b55-062dc76c118e")
-		(property "Reference" "C123"
+		(property "Reference" "C77"
 			(at 161.925 74.295 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14244,7 +14244,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C123")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -14263,7 +14263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d034c80-0425-41dc-a5ca-2c189d3e4a89")
-		(property "Reference" "R513"
+		(property "Reference" "R137"
 			(at 322.58 62.2299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14410,7 +14410,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R513")
+					(reference "R137")
 					(unit 1)
 				)
 			)
@@ -14427,7 +14427,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d54313a-686b-4fb1-8369-f24412986e0f")
-		(property "Reference" "C154"
+		(property "Reference" "C89"
 			(at 264.795 69.215 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14586,7 +14586,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C154")
+					(reference "C89")
 					(unit 1)
 				)
 			)
@@ -14603,7 +14603,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2363dbe6-6e53-478c-a469-59430e3d24a2")
-		(property "Reference" "U40"
+		(property "Reference" "U14"
 			(at 189.23 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14803,7 +14803,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "U40")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -14821,7 +14821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "272db69e-656b-4274-b26c-83b4d1b16c45")
-		(property "Reference" "R17"
+		(property "Reference" "R128"
 			(at 203.2 138.43 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14969,7 +14969,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R17")
+					(reference "R128")
 					(unit 1)
 				)
 			)
@@ -14988,7 +14988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2af55653-70a3-41e4-bd3b-a229bf2f684b")
-		(property "Reference" "Q6"
+		(property "Reference" "Q10"
 			(at 142.24 259.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15114,7 +15114,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "Q6")
+					(reference "Q10")
 					(unit 1)
 				)
 			)
@@ -15131,7 +15131,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c24d736-fab3-4379-9470-570738504219")
-		(property "Reference" "#PWR0191"
+		(property "Reference" "#PWR0158"
 			(at 236.22 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -15225,7 +15225,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0191")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -15242,7 +15242,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2d24e055-19bf-4149-8a54-5bc3893a1506")
-		(property "Reference" "#PWR0348"
+		(property "Reference" "#PWR0166"
 			(at 264.16 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -15335,7 +15335,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0348")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -15352,7 +15352,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2d38ba6d-be34-46f5-be9c-87a6ccaf2a09")
-		(property "Reference" "R148"
+		(property "Reference" "R131"
 			(at 205.74 229.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15500,7 +15500,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R148")
+					(reference "R131")
 					(unit 1)
 				)
 			)
@@ -15517,7 +15517,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3305db26-c1bc-4d96-af24-083e00b4530a")
-		(property "Reference" "R77"
+		(property "Reference" "R121"
 			(at 148.844 223.774 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15664,7 +15664,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R77")
+					(reference "R121")
 					(unit 1)
 				)
 			)
@@ -15682,7 +15682,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4163c932-d737-4c3e-a6dd-ddb6846f3077")
-		(property "Reference" "C81"
+		(property "Reference" "C70"
 			(at 128.27 142.2336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15842,7 +15842,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C81")
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -15859,7 +15859,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41b77892-cf8f-4c1b-8a1c-c005b07f912b")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR0154"
 			(at 209.55 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -15953,7 +15953,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0184")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -15970,7 +15970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41e434a3-b642-4e25-8dcb-96f90b705ce7")
-		(property "Reference" "#PWR0176"
+		(property "Reference" "#PWR0149"
 			(at 167.64 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -16064,7 +16064,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0176")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -16082,7 +16082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4224ced5-2299-4ce7-84b6-160033321f2f")
-		(property "Reference" "C82"
+		(property "Reference" "C73"
 			(at 137.16 142.2336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16242,7 +16242,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C82")
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -16259,7 +16259,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "427d7ad2-5ef5-454b-8647-999430ab617c")
-		(property "Reference" "C151"
+		(property "Reference" "C69"
 			(at 126.365 67.945 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16430,7 +16430,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C151")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -16448,7 +16448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43609d67-c1d0-45e1-8545-ee77fd3788d2")
-		(property "Reference" "C63"
+		(property "Reference" "C85"
 			(at 238.76 224.7836 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16608,7 +16608,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C63")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -16625,7 +16625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4407eab0-f9ff-4ea4-9ac6-6884eb5fc639")
-		(property "Reference" "#PWR0173"
+		(property "Reference" "#PWR0140"
 			(at 138.43 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -16719,7 +16719,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0173")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -16736,7 +16736,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47ec50b0-8747-4032-ae7b-bc09b8fdac82")
-		(property "Reference" "#PWR0345"
+		(property "Reference" "#PWR0164"
 			(at 256.54 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -16829,7 +16829,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0345")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -16847,7 +16847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4998c94c-fa63-4725-b129-ee6ee464678c")
-		(property "Reference" "TP33"
+		(property "Reference" "TP46"
 			(at 171.45 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16968,7 +16968,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "TP33")
+					(reference "TP46")
 					(unit 1)
 				)
 			)
@@ -16985,7 +16985,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e50c4c8-50d7-43de-9498-3ebfa8175b58")
-		(property "Reference" "D33"
+		(property "Reference" "D12"
 			(at 289.56 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17107,7 +17107,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "D33")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -17124,7 +17124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "508f5fe4-c617-4dda-845a-498609aee458")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR0136"
 			(at 138.43 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17219,7 +17219,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR022")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -17237,7 +17237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53aab61b-fae6-4dc3-8f0e-eb66fbb0165f")
-		(property "Reference" "TP30"
+		(property "Reference" "TP49"
 			(at 273.05 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17358,7 +17358,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "TP30")
+					(reference "TP49")
 					(unit 1)
 				)
 			)
@@ -17376,7 +17376,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5527b6e9-bf8a-4d37-9a31-57668510ee70")
-		(property "Reference" "C60"
+		(property "Reference" "C82"
 			(at 224.79 139.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17536,7 +17536,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C60")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -17554,7 +17554,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5822fd97-5b69-49f5-a8f7-1b37e292c6de")
-		(property "Reference" "C87"
+		(property "Reference" "C79"
 			(at 212.09 138.4236 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17714,7 +17714,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C87")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -17732,7 +17732,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5e01ae17-7718-41b4-bbb2-7eb4d4a29619")
-		(property "Reference" "R110"
+		(property "Reference" "R127"
 			(at 173.99 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17878,7 +17878,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R110")
+					(reference "R127")
 					(unit 1)
 				)
 			)
@@ -17895,7 +17895,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64ef15fd-6f26-4b25-9715-f5baadc9e85b")
-		(property "Reference" "C122"
+		(property "Reference" "C68"
 			(at 117.475 67.945 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18066,7 +18066,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C122")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -18084,7 +18084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68609372-cce0-47bd-b0f6-ca0529124621")
-		(property "Reference" "R24"
+		(property "Reference" "R133"
 			(at 232.41 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18232,7 +18232,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R24")
+					(reference "R133")
 					(unit 1)
 				)
 			)
@@ -18249,7 +18249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68fd7576-6fb5-41af-8c71-bddc03448b79")
-		(property "Reference" "R69"
+		(property "Reference" "R134"
 			(at 245.11 135.128 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18408,7 +18408,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R69")
+					(reference "R134")
 					(unit 1)
 				)
 			)
@@ -18425,7 +18425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6936a1eb-3038-4891-a61f-bf4995a5d7a4")
-		(property "Reference" "#PWR0338"
+		(property "Reference" "#PWR0144"
 			(at 142.24 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18518,7 +18518,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0338")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -18535,7 +18535,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d28f41e-ae92-4a01-95d6-96689766e093")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0146"
 			(at 154.94 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -18629,7 +18629,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0117")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -18646,7 +18646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ffae784-c550-4a20-9d04-13756fcd9f9d")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR0169"
 			(at 308.61 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18741,7 +18741,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR023")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -18758,7 +18758,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "703542a8-2695-4b42-87c1-7e7548ac903a")
-		(property "Reference" "#PWR0174"
+		(property "Reference" "#PWR0143"
 			(at 147.32 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -18852,7 +18852,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0174")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -18869,7 +18869,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71326b72-9de4-4f62-8761-34004d828f06")
-		(property "Reference" "#PWR0180"
+		(property "Reference" "#PWR0153"
 			(at 200.66 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -18963,7 +18963,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0180")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -18980,7 +18980,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71bc4a4b-c369-4993-85ee-61eac8743a8f")
-		(property "Reference" "#PWR0273"
+		(property "Reference" "#PWR0134"
 			(at 116.84 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -19043,7 +19043,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0273")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -19060,7 +19060,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73e81c88-5da1-4d62-a6a7-f5de2a7836fa")
-		(property "Reference" "C128"
+		(property "Reference" "C88"
 			(at 257.175 69.215 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19219,7 +19219,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C128")
+					(reference "C88")
 					(unit 1)
 				)
 			)
@@ -19236,7 +19236,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "74646c3d-e2c9-416d-b911-19bc6762419f")
-		(property "Reference" "#PWR0325"
+		(property "Reference" "#PWR0137"
 			(at 125.73 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19329,7 +19329,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0325")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -19347,7 +19347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77267871-fe60-48ac-bae1-364566b2a531")
-		(property "Reference" "TP41"
+		(property "Reference" "TP47"
 			(at 175.26 236.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19468,7 +19468,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "TP41")
+					(reference "TP47")
 					(unit 1)
 				)
 			)
@@ -19486,7 +19486,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77d17d4a-15eb-4b80-a710-d98f152dcdd7")
-		(property "Reference" "D506"
+		(property "Reference" "D13"
 			(at 326.39 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19620,7 +19620,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "D506")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -19638,7 +19638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78aeffce-895a-453b-8f4c-915b501a0d99")
-		(property "Reference" "R71"
+		(property "Reference" "R125"
 			(at 168.91 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19786,7 +19786,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R71")
+					(reference "R125")
 					(unit 1)
 				)
 			)
@@ -19803,7 +19803,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7abccc59-508a-4b61-85a8-9095b3e608aa")
-		(property "Reference" "#PWR0333"
+		(property "Reference" "#PWR0141"
 			(at 134.62 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19896,7 +19896,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0333")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -19914,7 +19914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c60be27-33b5-4b1a-867c-60c53a79bb30")
-		(property "Reference" "R78"
+		(property "Reference" "R123"
 			(at 160.02 250.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20062,7 +20062,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R78")
+					(reference "R123")
 					(unit 1)
 				)
 			)
@@ -20080,7 +20080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8483456b-463e-4d90-be3a-2f8c854c7730")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR0167"
 			(at 281.94 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -20174,7 +20174,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR05")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -20192,7 +20192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84935cdd-0d2f-417d-af58-818f4edb604b")
-		(property "Reference" "R79"
+		(property "Reference" "R126"
 			(at 172.72 250.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20340,7 +20340,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R79")
+					(reference "R126")
 					(unit 1)
 				)
 			)
@@ -20358,7 +20358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86163e5f-9089-4501-8c43-c01cc80b9e75")
-		(property "Reference" "C62"
+		(property "Reference" "C83"
 			(at 229.87 224.7836 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20518,7 +20518,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C62")
+					(reference "C83")
 					(unit 1)
 				)
 			)
@@ -20536,7 +20536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e8ff878-bdef-488d-8e2e-38595a058633")
-		(property "Reference" "C84"
+		(property "Reference" "C71"
 			(at 132.08 227.3236 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20696,7 +20696,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C84")
+					(reference "C71")
 					(unit 1)
 				)
 			)
@@ -20713,7 +20713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9819e806-b82f-4e66-a43d-3eb3b70466d6")
-		(property "Reference" "#PWR0341"
+		(property "Reference" "#PWR0159"
 			(at 229.87 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20806,7 +20806,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0341")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -20824,7 +20824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "998961b9-b96a-4d29-826f-3c79c54c6ef7")
-		(property "Reference" "C83"
+		(property "Reference" "C75"
 			(at 157.48 142.2463 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20984,7 +20984,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C83")
+					(reference "C75")
 					(unit 1)
 				)
 			)
@@ -21002,7 +21002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b50d539-7fce-4103-bc98-1e9bc1f85eb0")
-		(property "Reference" "C85"
+		(property "Reference" "C74"
 			(at 140.97 227.3236 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21162,7 +21162,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C85")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -21181,7 +21181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bea5211-813e-4b32-a8fa-bfcd42e1f9b6")
-		(property "Reference" "Q1"
+		(property "Reference" "Q9"
 			(at 138.43 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21307,7 +21307,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "Q1")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -21325,7 +21325,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9dc8bbb8-955b-44ab-8409-3005e7769bce")
-		(property "Reference" "D17"
+		(property "Reference" "D10"
 			(at 139.7 163.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21460,7 +21460,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "D17")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -21477,7 +21477,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e1d1bb4-b95a-469f-a392-2ec6ce1a695c")
-		(property "Reference" "#PWR0335"
+		(property "Reference" "#PWR0147"
 			(at 151.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21570,7 +21570,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0335")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -21587,7 +21587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f76d876-463f-4f50-afd8-83c6575d9289")
-		(property "Reference" "#PWR0192"
+		(property "Reference" "#PWR0161"
 			(at 245.11 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21681,7 +21681,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0192")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -21700,7 +21700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a221c3e0-cea2-44cc-8db2-1932b90b0bb3")
-		(property "Reference" "R22"
+		(property "Reference" "R124"
 			(at 165.1 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21859,7 +21859,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R22")
+					(reference "R124")
 					(unit 1)
 				)
 			)
@@ -21876,7 +21876,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6364d9c-03c2-4405-9539-1a3b471e3ea2")
-		(property "Reference" "R15"
+		(property "Reference" "R119"
 			(at 145.034 138.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22023,7 +22023,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R15")
+					(reference "R119")
 					(unit 1)
 				)
 			)
@@ -22041,7 +22041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a95b8905-1ce2-407b-ad66-3b407bf05725")
-		(property "Reference" "C86"
+		(property "Reference" "C76"
 			(at 161.29 227.3363 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22201,7 +22201,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C86")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -22218,7 +22218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae5849ef-0418-460e-b9c1-45384809adca")
-		(property "Reference" "C126"
+		(property "Reference" "C86"
 			(at 241.935 69.215 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22377,7 +22377,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C126")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -22395,7 +22395,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2cc88dc-d7f9-460d-8475-a1c1e81fbfa2")
-		(property "Reference" "D18"
+		(property "Reference" "D11"
 			(at 143.51 248.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22530,7 +22530,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "D18")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -22547,7 +22547,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4909995-3757-4f10-85fa-9f843c85677a")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0170"
 			(at 335.28 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -22641,7 +22641,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR067")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -22658,7 +22658,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b52e303b-5e76-4ee8-b80c-c5088f42ecb6")
-		(property "Reference" "#PWR0350"
+		(property "Reference" "#PWR0171"
 			(at 320.04 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -22751,7 +22751,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0350")
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -22768,7 +22768,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9deacc4-2afb-4543-87c0-d39e2a77d502")
-		(property "Reference" "C155"
+		(property "Reference" "C78"
 			(at 170.815 74.295 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22928,7 +22928,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C155")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -22946,7 +22946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba84c688-3494-493a-bf6a-47a1250604dd")
-		(property "Reference" "L1"
+		(property "Reference" "L3"
 			(at 223.52 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23118,7 +23118,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "L1")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -23135,7 +23135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbe8a07f-030c-4bce-8996-88f11e020919")
-		(property "Reference" "R176"
+		(property "Reference" "R116"
 			(at 143.51 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23283,7 +23283,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R176")
+					(reference "R116")
 					(unit 1)
 				)
 			)
@@ -23300,7 +23300,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc9ceb1e-7c9a-45de-af14-2daf851b470e")
-		(property "Reference" "#PWR0179"
+		(property "Reference" "#PWR0152"
 			(at 196.85 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -23394,7 +23394,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0179")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -23412,7 +23412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcb14a4f-6f78-4479-aa3c-a743e9c4c2eb")
-		(property "Reference" "U22"
+		(property "Reference" "U13"
 			(at 181.61 214.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23545,7 +23545,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "U22")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -23562,7 +23562,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcbe7f80-13af-4b01-a232-d1d5793607df")
-		(property "Reference" "#PWR0340"
+		(property "Reference" "#PWR0151"
 			(at 170.18 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -23655,7 +23655,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0340")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -23672,7 +23672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c02a1196-fb51-49db-9500-4e8416bda40b")
-		(property "Reference" "C121"
+		(property "Reference" "C72"
 			(at 135.255 67.945 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23831,7 +23831,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C121")
+					(reference "C72")
 					(unit 1)
 				)
 			)
@@ -23848,7 +23848,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "c03881d7-5ea2-428a-a880-7f13d97a581e")
-		(property "Reference" "R240"
+		(property "Reference" "R115"
 			(at 143.51 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23996,7 +23996,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R240")
+					(reference "R115")
 					(unit 1)
 				)
 			)
@@ -24013,7 +24013,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4bf9791-447f-4c2a-a579-16d155844128")
-		(property "Reference" "#PWR0323"
+		(property "Reference" "#PWR0135"
 			(at 116.84 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -24106,7 +24106,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0323")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -24123,7 +24123,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c561eb90-3096-4acc-b44a-6f0e1755152a")
-		(property "Reference" "#PWR0336"
+		(property "Reference" "#PWR0155"
 			(at 201.93 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -24216,7 +24216,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0336")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -24234,7 +24234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c66ac405-01d1-4429-a127-5cb403ee13a0")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 193.04 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24406,7 +24406,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "L2")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -24423,7 +24423,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c6a42c09-79e4-4569-bc7a-d3ed254a2c8a")
-		(property "Reference" "R80"
+		(property "Reference" "R130"
 			(at 205.994 223.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24571,7 +24571,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R80")
+					(reference "R130")
 					(unit 1)
 				)
 			)
@@ -24589,7 +24589,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca79d125-948e-4cfc-8153-c8287500cbbd")
-		(property "Reference" "#FLG012"
+		(property "Reference" "#FLG08"
 			(at 283.21 55.245 0)
 			(hide yes)
 			(show_name no)
@@ -24651,7 +24651,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#FLG012")
+					(reference "#FLG08")
 					(unit 1)
 				)
 			)
@@ -24668,7 +24668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca7a2e8b-ca4c-4580-84eb-720f29f0683f")
-		(property "Reference" "R178"
+		(property "Reference" "R136"
 			(at 274.32 55.372 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24825,7 +24825,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R178")
+					(reference "R136")
 					(unit 1)
 				)
 			)
@@ -24842,7 +24842,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3a63340-6a3e-430a-b1f4-544fc0d3c08b")
-		(property "Reference" "C127"
+		(property "Reference" "C87"
 			(at 249.555 69.215 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25001,7 +25001,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C127")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -25019,7 +25019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d54fd989-254c-425d-9052-7830259b5594")
-		(property "Reference" "R66"
+		(property "Reference" "R122"
 			(at 156.21 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25167,7 +25167,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R66")
+					(reference "R122")
 					(unit 1)
 				)
 			)
@@ -25185,7 +25185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d583de10-3112-4e90-b298-60ef0e5c7584")
-		(property "Reference" "#FLG07"
+		(property "Reference" "#FLG06"
 			(at 252.73 133.985 0)
 			(hide yes)
 			(show_name no)
@@ -25247,7 +25247,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#FLG07")
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)
@@ -25264,7 +25264,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6ba8f9b-279f-474f-b568-2224ee76b305")
-		(property "Reference" "#PWR0349"
+		(property "Reference" "#PWR0168"
 			(at 288.29 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -25357,7 +25357,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0349")
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -25374,7 +25374,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d776e645-240e-43a6-8e49-efb372c70b87")
-		(property "Reference" "#PWR0171"
+		(property "Reference" "#PWR0138"
 			(at 134.62 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -25468,7 +25468,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0171")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -25486,7 +25486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d99644c3-3e65-4e7a-ad4a-e28739816fe3")
-		(property "Reference" "U21"
+		(property "Reference" "U12"
 			(at 177.8 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25619,7 +25619,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "U21")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -25636,7 +25636,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0e2951e-87fd-423f-b00e-97fd61643644")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR0156"
 			(at 213.36 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -25730,7 +25730,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0185")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -25748,7 +25748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e55e9727-231b-491b-9e17-d794a6158c8e")
-		(property "Reference" "TP15"
+		(property "Reference" "TP48"
 			(at 267.97 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25869,7 +25869,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "TP15")
+					(reference "TP48")
 					(unit 1)
 				)
 			)
@@ -25887,7 +25887,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e586ff2a-7436-44bb-bd85-52e016b1dc4b")
-		(property "Reference" "#FLG013"
+		(property "Reference" "#FLG07"
 			(at 257.81 219.075 0)
 			(hide yes)
 			(show_name no)
@@ -25949,7 +25949,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#FLG013")
+					(reference "#FLG07")
 					(unit 1)
 				)
 			)
@@ -25966,7 +25966,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6455bca-7d16-4f2d-8373-8c56ac65f354")
-		(property "Reference" "#PWR0339"
+		(property "Reference" "#PWR0162"
 			(at 241.3 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -26059,7 +26059,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0339")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -26077,7 +26077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e99e1c95-3f37-46f6-b738-1ac0a62eae2d")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR0165"
 			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26138,7 +26138,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR07")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -26155,7 +26155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f06e75db-6147-414b-b4b7-2922fa72e230")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0160"
 			(at 240.03 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -26249,7 +26249,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0188")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -26266,7 +26266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f191045d-99a9-4210-85d7-b3c9fb71f12b")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR0145"
 			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -26360,7 +26360,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR078")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -26378,7 +26378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2b95eb2-2039-4d0d-bd44-5ef16817e1d8")
-		(property "Reference" "L4"
+		(property "Reference" "L2"
 			(at 196.85 217.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26550,7 +26550,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "L4")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -26567,7 +26567,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f71a430d-c286-4be0-8682-9f461baefc47")
-		(property "Reference" "TP54"
+		(property "Reference" "TP50"
 			(at 298.45 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26687,7 +26687,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "TP54")
+					(reference "TP50")
 					(unit 1)
 				)
 			)
@@ -26705,7 +26705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9c4d4b0-96c1-489f-8575-1fe236984414")
-		(property "Reference" "C61"
+		(property "Reference" "C84"
 			(at 233.68 139.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26865,7 +26865,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "C61")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -26882,7 +26882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc64b562-0645-4afe-8510-bd535218cd46")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0157"
 			(at 231.14 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -26976,7 +26976,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0187")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -26993,7 +26993,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc7bcdfd-780f-457a-8131-2e38ac7d5b88")
-		(property "Reference" "#PWR0334"
+		(property "Reference" "#PWR0150"
 			(at 161.29 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -27086,7 +27086,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "#PWR0334")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -27104,7 +27104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd5606df-7449-4c5e-ad54-df4971875d0d")
-		(property "Reference" "R23"
+		(property "Reference" "R132"
 			(at 232.41 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27252,7 +27252,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R23")
+					(reference "R132")
 					(unit 1)
 				)
 			)
@@ -27269,7 +27269,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "feefe787-fb7b-437f-bfb3-8b7c5eb9eacd")
-		(property "Reference" "R173"
+		(property "Reference" "R120"
 			(at 152.4 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27417,7 +27417,7 @@
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
-					(reference "R173")
+					(reference "R120")
 					(unit 1)
 				)
 			)
