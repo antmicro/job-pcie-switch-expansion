@@ -7900,7 +7900,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "80562a2f-65ba-418d-9c4c-52c1577e7dbb")
 		(property "Reference" "J1"
