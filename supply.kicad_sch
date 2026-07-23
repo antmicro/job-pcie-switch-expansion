@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
-		(date "10.07.2026")
+		(date "2026-07-23")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
@@ -8258,16 +8258,6 @@
 		)
 		(uuid "1a6849e4-1fdc-49ca-b0a7-2434e1b75fe6")
 	)
-	(text "TODO: add TVS"
-		(exclude_from_sim no)
-		(at 247.904 249.936 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2cd34f5f-f296-4ce6-9d95-7750b77b4b36")
-	)
 	(text "PG: OD in Power Good state"
 		(exclude_from_sim no)
 		(at 185.674 156.972 0)
@@ -8277,16 +8267,6 @@
 			)
 		)
 		(uuid "3aecb189-6703-459e-8139-adee79c3df62")
-	)
-	(text "TODO: add TVS"
-		(exclude_from_sim no)
-		(at 283.464 161.798 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "44ae746f-ed57-46d9-8f0b-2a1efd2a29fe")
 	)
 	(text "3V3 to 0V95 DCDC Converter"
 		(exclude_from_sim no)
@@ -8439,6 +8419,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b3e3971-49e2-4acc-bdc7-54ce690f4d79")
+	)
+	(junction
+		(at 166.37 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45208bc9-cc14-4071-ab5c-a4141e4a380d")
 	)
 	(junction
 		(at 142.24 139.7)
@@ -8613,6 +8599,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9cf0cbd-1dd9-4002-86d2-67ba55a7b8a6")
+	)
+	(junction
+		(at 170.18 236.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea0d2f5f-de86-4dfd-bb73-b59c001199b2")
 	)
 	(junction
 		(at 170.18 52.07)
@@ -9148,6 +9140,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 151.13) (xy 166.37 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da12284-0c29-488b-9cbd-603e860eecfc")
+	)
+	(wire
+		(pts
 			(xy 142.24 137.16) (xy 134.62 137.16)
 		)
 		(stroke
@@ -9218,7 +9220,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 144.78) (xy 166.37 163.83)
+			(xy 166.37 144.78) (xy 166.37 151.13)
 		)
 		(stroke
 			(width 0)
@@ -9295,6 +9297,16 @@
 			(type default)
 		)
 		(uuid "5854e458-16b1-42fe-89f5-9d5485b88e11")
+	)
+	(wire
+		(pts
+			(xy 170.18 236.22) (xy 170.18 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58c0c92d-0b61-4f34-9576-0fd7a5a96fd7")
 	)
 	(wire
 		(pts
@@ -9828,7 +9840,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 229.87) (xy 170.18 248.92)
+			(xy 170.18 229.87) (xy 170.18 236.22)
 		)
 		(stroke
 			(width 0)
@@ -16824,6 +16836,145 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroTestPoints:TP_0.75mm_SMD")
+		(at 166.37 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4998c94c-fa63-4725-b129-ee6ee464678c")
+		(property "Reference" "TP33"
+			(at 171.45 151.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_0.75mm_SMD"
+			(at 176.53 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_0.75mm"
+			(at 176.53 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 177.165 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 177.165 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 177.165 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 176.53 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 176.53 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a7e7d7c1-6fe2-4440-8c4b-dbcf4248bf94")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
+					(reference "TP33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroTVSDiodes:ESD9X5.0ST5G")
 		(at 288.29 68.58 270)
 		(unit 1)
@@ -19179,6 +19330,145 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
 					(reference "#PWR0325")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_0.75mm_SMD")
+		(at 170.18 236.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77267871-fe60-48ac-bae1-364566b2a531")
+		(property "Reference" "TP41"
+			(at 175.26 236.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_0.75mm_SMD"
+			(at 180.34 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_0.75mm"
+			(at 180.34 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 248.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMT test point"
+			(at 180.975 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 180.975 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 180.975 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 180.34 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 180.34 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "ecc05bb4-9e2d-4645-b227-315094ccc807")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/b2048f45-d77d-4bd2-929a-db82e576fe70"
+					(reference "TP41")
 					(unit 1)
 				)
 			)

@@ -9,7 +9,7 @@
 	(paper "A3")
 	(title_block
 		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
-		(date "10.07.2026")
+		(date "2026-07-23")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
