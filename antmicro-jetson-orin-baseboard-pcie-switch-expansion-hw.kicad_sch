@@ -185,181 +185,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "antmicroMechanicalParts:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "H"
-				(at 15.24 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "Spacer_Drill4.4mm_H2.5mm_9774025360R"
-				(at 15.24 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "antmicro-footprints:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-				(at 15.24 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Datasheet" "https://www.we-online.com/catalog/datasheet/9774025360.pdf"
-				(at 15.24 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Description" "Standoff, SMT, Non Stop, Steel, Round Female, M3, 6 mm x 2.5 mm, 3.9 mm Overall, WA-SMSI Series"
-				(at 15.24 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "MPN" "9774025360R"
-				(at 15.24 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Manufacturer" "Würth Elektronik"
-				(at 15.24 -17.78 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Author" "Antmicro"
-				(at 15.24 -20.32 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "License" "Apache-2.0"
-				(at 15.24 -22.86 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.15)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "ki_keywords" "SPACER, RoHS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Spacer_Drill4.4mm_H2.5mm_9774025360R_1_1"
-				(rectangle
-					(start 2.54 -2.54)
-					(end 7.62 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 3.81 -1.27)
-					(end 6.35 1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "antmicroModules:Mech_M2_2242_H2.5mm"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -780,52 +605,28 @@
 		)
 	)
 	(junction
+		(at 40.64 245.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2740fea7-9646-4b73-99d3-67b02936de74")
+	)
+	(junction
 		(at 185.42 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5897330d-6538-415b-b1f2-b86fff5b0b5c")
 	)
 	(junction
-		(at 40.64 266.7)
+		(at 40.64 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6f266521-8eff-4f07-a48f-7a057a44caa9")
+		(uuid "ab2756b9-fd69-4465-9937-eb2e2c85f614")
 	)
 	(junction
-		(at 40.64 234.95)
+		(at 40.64 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "82347324-b4d3-48ca-87af-7ee5630163cc")
-	)
-	(junction
-		(at 40.64 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a215a769-d071-478e-bf2d-00875c8747a9")
-	)
-	(junction
-		(at 40.64 241.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca504d0c-729d-4f64-88ed-8f85c04c83be")
-	)
-	(junction
-		(at 40.64 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cae5fd57-f7d0-464a-acd3-dafaf649109c")
-	)
-	(junction
-		(at 40.64 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4a0843b-c05a-453c-b755-92daef328da4")
-	)
-	(junction
-		(at 40.64 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ebe4ee8b-fa5e-43d1-8973-2f79c4b4d972")
+		(uuid "c85cdbf6-a42f-4c56-a6f5-9d2aed6122a4")
 	)
 	(wire
 		(pts
@@ -836,16 +637,6 @@
 			(type default)
 		)
 		(uuid "02f0be7b-ef6e-4ac4-b96d-9d1cc2081ad3")
-	)
-	(wire
-		(pts
-			(xy 40.64 266.7) (xy 40.64 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d19d0af-8fb2-4170-a1e3-7616705b0546")
 	)
 	(bus
 		(pts
@@ -887,16 +678,6 @@
 		)
 		(uuid "3de49f7d-784b-4874-9bf0-acdc0904f6c5")
 	)
-	(wire
-		(pts
-			(xy 40.64 247.65) (xy 41.91 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "450b2928-e150-4a89-a82b-5be56954a6a1")
-	)
 	(bus
 		(pts
 			(xy 231.14 134.62) (xy 231.14 151.13)
@@ -909,7 +690,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 234.95) (xy 41.91 234.95)
+			(xy 40.64 237.49) (xy 41.91 237.49)
 		)
 		(stroke
 			(width 0)
@@ -967,16 +748,6 @@
 		)
 		(uuid "7dd44f48-5f13-445a-bb11-d6355f562f04")
 	)
-	(wire
-		(pts
-			(xy 40.64 234.95) (xy 40.64 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84e560ae-8fd1-41c2-9aac-77a45f6d2727")
-	)
 	(bus
 		(pts
 			(xy 274.32 154.94) (xy 274.32 161.29)
@@ -987,6 +758,16 @@
 		)
 		(uuid "89ce2ebd-84bc-4ec9-9a3f-66454a8ae2bb")
 	)
+	(wire
+		(pts
+			(xy 40.64 237.49) (xy 40.64 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e7c463a-ebfd-4f1f-b37a-ad3c24c9bbe3")
+	)
 	(bus
 		(pts
 			(xy 231.14 151.13) (xy 240.03 151.13)
@@ -996,16 +777,6 @@
 			(type default)
 		)
 		(uuid "9d33a533-7bde-4650-89e6-9d8b18eee438")
-	)
-	(wire
-		(pts
-			(xy 40.64 254) (xy 40.64 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a06f8260-6775-49d9-953e-0b866c6c3c89")
 	)
 	(bus
 		(pts
@@ -1026,16 +797,6 @@
 			(type default)
 		)
 		(uuid "b21932e1-823c-4ed0-a1a0-e1cfa97a2554")
-	)
-	(wire
-		(pts
-			(xy 40.64 222.25) (xy 40.64 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2e2f16f-3f72-45ce-b1d1-7a8d8d6512b0")
 	)
 	(bus
 		(pts
@@ -1059,7 +820,27 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 241.3) (xy 41.91 241.3)
+			(xy 40.64 245.11) (xy 40.64 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8c2f6c4-cc22-4779-9361-a949f004361e")
+	)
+	(wire
+		(pts
+			(xy 40.64 229.87) (xy 40.64 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8fadb0f-8ad1-462d-a4e2-1d2610120232")
+	)
+	(wire
+		(pts
+			(xy 40.64 245.11) (xy 41.91 245.11)
 		)
 		(stroke
 			(width 0)
@@ -1079,7 +860,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 228.6) (xy 40.64 234.95)
+			(xy 40.64 222.25) (xy 40.64 229.87)
 		)
 		(stroke
 			(width 0)
@@ -1089,23 +870,13 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 228.6) (xy 41.91 228.6)
+			(xy 40.64 229.87) (xy 41.91 229.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c267aa89-fb98-49f0-b1d7-6ef1eb18ed5a")
-	)
-	(wire
-		(pts
-			(xy 41.91 266.7) (xy 40.64 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c458d3e4-e8ad-42f8-90c4-23a8106749c5")
 	)
 	(wire
 		(pts
@@ -1127,16 +898,6 @@
 		)
 		(uuid "c6409416-688e-4451-a392-667352c8fb2d")
 	)
-	(wire
-		(pts
-			(xy 40.64 254) (xy 41.91 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce243446-6f83-4a4e-a082-8163fc61323f")
-	)
 	(bus
 		(pts
 			(xy 274.32 147.32) (xy 270.51 147.32)
@@ -1146,16 +907,6 @@
 			(type default)
 		)
 		(uuid "cf32c26a-f673-46a5-88fb-385ffe8e23b4")
-	)
-	(wire
-		(pts
-			(xy 40.64 247.65) (xy 40.64 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1fb3cf5-814e-4a5e-8720-8292bac2e5dc")
 	)
 	(wire
 		(pts
@@ -1177,26 +928,6 @@
 		)
 		(uuid "db808023-fc3f-4533-b004-d5dd331c553b")
 	)
-	(wire
-		(pts
-			(xy 40.64 241.3) (xy 40.64 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efa0e0aa-f633-4826-97a1-3bc4108a84a8")
-	)
-	(wire
-		(pts
-			(xy 40.64 266.7) (xy 40.64 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5a8ac3a-1f77-4095-9111-5f088a7379d6")
-	)
 	(bus
 		(pts
 			(xy 274.32 161.29) (xy 278.13 161.29)
@@ -1207,23 +938,13 @@
 		)
 		(uuid "f696fe95-80c3-4292-9928-1d6b12730df3")
 	)
-	(wire
-		(pts
-			(xy 40.64 260.35) (xy 41.91 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7b0c509-975e-4e9a-b8e0-8a4b9b0d859e")
-	)
 	(symbol
 		(lib_id "antmicroModules:Mech_M2_2280_H2.5mm")
 		(at 36.83 25.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -1348,146 +1069,8 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill4.4mm_H2.5mm_9774025360R")
-		(at 41.91 254 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1cd62c27-6fe7-4a03-a7e9-c4f0df987003")
-		(property "Reference" "H6"
-			(at 50.8 252.73 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/9774025360.pdf"
-			(at 57.15 269.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Standoff, SMT, Non Stop, Steel, Round Female, M3, 6 mm x 2.5 mm, 3.9 mm Overall, WA-SMSI Series"
-			(at 57.15 279.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "9774025360R"
-			(at 50.8 255.27 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 57.15 271.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 57.15 274.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 57.15 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "5ec59392-f589-4bc5-a353-eb8f0d575ae8")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R")
-		(at 41.91 241.3 0)
+		(at 41.91 245.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1498,7 +1081,7 @@
 		(fields_autoplaced yes)
 		(uuid "255e8c88-510e-441b-8ebb-a39b43099bff")
 		(property "Reference" "H4"
-			(at 50.8 238.76 0)
+			(at 50.8 242.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1510,7 +1093,7 @@
 			)
 		)
 		(property "Value" "Spacer_Drill3.7mm_H10mm_9774100151R"
-			(at 57.15 254 0)
+			(at 57.15 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1523,7 +1106,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R"
-			(at 57.15 256.54 0)
+			(at 57.15 260.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1536,7 +1119,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774100151R.pdf"
-			(at 57.15 259.08 0)
+			(at 57.15 262.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1549,7 +1132,7 @@
 			)
 		)
 		(property "Description" "Spacer, SMT, Steel, Threaded, Swage Round, Tin plated, M2.5, WA-SMSI Series"
-			(at 57.15 266.7 0)
+			(at 57.15 270.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1561,7 +1144,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 50.8 241.3 0)
+			(at 50.8 245.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1573,7 +1156,7 @@
 			)
 		)
 		(property "MPN" "9774100151R"
-			(at 50.8 243.84 0)
+			(at 50.8 247.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1585,7 +1168,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 57.15 261.62 0)
+			(at 57.15 265.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1598,7 +1181,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 57.15 264.16 0)
+			(at 57.15 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1761,7 +1344,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R")
-		(at 41.91 228.6 0)
+		(at 41.91 229.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1772,7 +1355,7 @@
 		(fields_autoplaced yes)
 		(uuid "28a5c1b8-41d8-4034-ba4f-96b0eccd7fc9")
 		(property "Reference" "H2"
-			(at 50.8 226.06 0)
+			(at 50.8 227.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1784,7 +1367,7 @@
 			)
 		)
 		(property "Value" "Spacer_Drill3.7mm_H10mm_9774100151R"
-			(at 57.15 241.3 0)
+			(at 57.15 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1797,7 +1380,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R"
-			(at 57.15 243.84 0)
+			(at 57.15 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1810,7 +1393,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774100151R.pdf"
-			(at 57.15 246.38 0)
+			(at 57.15 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1823,7 +1406,7 @@
 			)
 		)
 		(property "Description" "Spacer, SMT, Steel, Threaded, Swage Round, Tin plated, M2.5, WA-SMSI Series"
-			(at 57.15 254 0)
+			(at 57.15 255.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1835,7 +1418,7 @@
 			)
 		)
 		(property "Manufacturer" "Würth Elektronik"
-			(at 50.8 228.6 0)
+			(at 50.8 229.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1847,7 +1430,7 @@
 			)
 		)
 		(property "MPN" "9774100151R"
-			(at 50.8 231.14 0)
+			(at 50.8 232.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1859,7 +1442,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 57.15 248.92 0)
+			(at 57.15 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1872,7 +1455,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 57.15 251.46 0)
+			(at 57.15 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1898,7 +1481,7 @@
 	)
 	(symbol
 		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R")
-		(at 41.91 234.95 0)
+		(at 41.91 237.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1909,7 +1492,7 @@
 		(fields_autoplaced yes)
 		(uuid "29f97ef9-f7f8-4cc5-9f46-29421019b001")
 		(property "Reference" "H3"
-			(at 50.8 232.41 0)
+			(at 50.8 234.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1921,19 +1504,6 @@
 			)
 		)
 		(property "Value" "Spacer_Drill3.7mm_H10mm_9774100151R"
-			(at 57.15 247.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R"
 			(at 57.15 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -1946,7 +1516,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774100151R.pdf"
+		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R"
 			(at 57.15 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -1959,43 +1529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" "Spacer, SMT, Steel, Threaded, Swage Round, Tin plated, M2.5, WA-SMSI Series"
-			(at 57.15 260.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 50.8 234.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "MPN" "9774100151R"
-			(at 50.8 237.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Author" "Antmicro"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774100151R.pdf"
 			(at 57.15 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -2008,8 +1542,57 @@
 				(justify left bottom)
 			)
 		)
-		(property "License" "Apache-2.0"
+		(property "Description" "Spacer, SMT, Steel, Threaded, Swage Round, Tin plated, M2.5, WA-SMSI Series"
+			(at 57.15 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Würth Elektronik"
+			(at 50.8 237.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "9774100151R"
+			(at 50.8 240.03 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Author" "Antmicro"
 			(at 57.15 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 57.15 260.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2034,8 +1617,8 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill4.4mm_H2.5mm_9774025360R")
-		(at 41.91 247.65 0)
+		(lib_id "antmicropower:GND")
+		(at 40.64 248.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2043,22 +1626,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "358a553b-9425-4bf0-9437-bcea4119e82e")
-		(property "Reference" "H5"
-			(at 50.8 246.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 257.81 0)
+		(uuid "968375d5-3283-4b03-929c-7b1d8a58ec80")
+		(property "Reference" "#PWR01"
+			(at 49.53 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2070,8 +1640,19 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 260.35 0)
+		(property "Value" "GND"
+			(at 40.64 252.984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2083,8 +1664,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/9774025360.pdf"
-			(at 57.15 262.89 0)
+		(property "Datasheet" ""
+			(at 49.53 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2096,45 +1677,20 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" "Standoff, SMT, Non Stop, Steel, Round Female, M3, 6 mm x 2.5 mm, 3.9 mm Overall, WA-SMSI Series"
-			(at 57.15 273.05 0)
+		(property "Description" ""
+			(at 49.53 264.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "9774025360R"
-			(at 50.8 248.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 57.15 265.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 57.15 267.97 0)
+			(at 49.53 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2147,7 +1703,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 57.15 270.51 0)
+			(at 49.53 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2160,288 +1716,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "4e0bb5ca-ac4c-47d8-8e69-512152daef15")
+			(uuid "227bca99-ef13-4e35-b8f6-d543a1145ad0")
 		)
 		(instances
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill4.4mm_H2.5mm_9774025360R")
-		(at 41.91 260.35 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47a7c272-4e41-4fb8-a80e-e1c55ce9efeb")
-		(property "Reference" "H7"
-			(at 50.8 259.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 270.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/9774025360.pdf"
-			(at 57.15 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Standoff, SMT, Non Stop, Steel, Round Female, M3, 6 mm x 2.5 mm, 3.9 mm Overall, WA-SMSI Series"
-			(at 57.15 285.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "9774025360R"
-			(at 50.8 261.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 57.15 278.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 57.15 280.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 57.15 283.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "3f0a4352-2919-4f39-96a5-b50650f8276d")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(reference "H7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill4.4mm_H2.5mm_9774025360R")
-		(at 41.91 266.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "480f245c-0070-4edf-9fb0-84aa829a0e66")
-		(property "Reference" "H8"
-			(at 50.8 265.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 276.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill4.4mm_H2.5mm_9774025360R"
-			(at 57.15 279.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/9774025360.pdf"
-			(at 57.15 281.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Standoff, SMT, Non Stop, Steel, Round Female, M3, 6 mm x 2.5 mm, 3.9 mm Overall, WA-SMSI Series"
-			(at 57.15 292.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "9774025360R"
-			(at 50.8 267.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Manufacturer" "Würth Elektronik"
-			(at 57.15 284.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 57.15 287.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 57.15 289.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "a43533fb-cf99-4526-a1bd-e1c9bb5ae947")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(reference "H8")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2572,119 +1852,6 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
 					(reference "A2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicropower:GND")
-		(at 40.64 270.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6ba6e08-a9f7-4db5-87ba-2214cd017a90")
-		(property "Reference" "#PWR01"
-			(at 49.53 273.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "GND"
-			(at 43.18 271.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 278.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 283.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 285.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 49.53 278.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 49.53 280.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "c88dd0ce-d0ad-4d91-8265-3e71c7955f65")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
