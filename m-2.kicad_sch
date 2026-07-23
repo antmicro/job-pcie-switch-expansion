@@ -7847,7 +7847,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "31729db9-185a-4bff-916e-b3ce0d5ca556")
 		(property "Reference" "R3"
 			(at 181.61 109.22 90)
@@ -11411,7 +11411,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fe7815a1-9dc7-4ad1-bb90-22973882f231")
 		(property "Reference" "R2"
 			(at 173.99 109.22 90)

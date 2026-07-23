@@ -8258,16 +8258,6 @@
 		)
 		(uuid "1a6849e4-1fdc-49ca-b0a7-2434e1b75fe6")
 	)
-	(text "PG: OD in Power Good state"
-		(exclude_from_sim no)
-		(at 185.674 156.972 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3aecb189-6703-459e-8139-adee79c3df62")
-	)
 	(text "3V3 to 0V95 DCDC Converter"
 		(exclude_from_sim no)
 		(at 163.1475 120.904 0)
@@ -8291,16 +8281,6 @@
 			(justify left bottom)
 		)
 		(uuid "a4cc83c2-3941-434d-9c9e-33ae1e62e392")
-	)
-	(text "PG: OD in Power Good state"
-		(exclude_from_sim no)
-		(at 187.452 239.268 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a7ad72af-1aa0-47af-a8fb-70ab78771671")
 	)
 	(text "V_{OUT} = 0,954V"
 		(exclude_from_sim no)
@@ -12491,17 +12471,6 @@
 		)
 		(uuid "578c6352-b2cb-4198-a9d4-045a1396dab5")
 	)
-	(label "DCDC_EN"
-		(at 157.48 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left bottom)
-		)
-		(uuid "6a0157c5-e577-421f-bb79-c18c4f0865e9")
-	)
 	(label "3V3_MODE2"
 		(at 177.8 67.31 180)
 		(effects
@@ -12541,17 +12510,6 @@
 			(justify right bottom)
 		)
 		(uuid "bc8b929e-cb2d-48d2-a369-1143d1d92cac")
-	)
-	(label "DCDC_EN"
-		(at 161.29 224.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2d863ed-aa4a-4fd9-ae5b-7ac5317e99ec")
 	)
 	(label "3V3_SW"
 		(at 201.93 59.69 0)
