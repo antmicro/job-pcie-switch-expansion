@@ -780,6 +780,12 @@
 		)
 	)
 	(junction
+		(at 185.42 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5897330d-6538-415b-b1f2-b86fff5b0b5c")
+	)
+	(junction
 		(at 40.64 266.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -790,12 +796,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82347324-b4d3-48ca-87af-7ee5630163cc")
-	)
-	(junction
-		(at 185.42 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "910f2e6f-064f-4948-b40e-ab286a0cfd3c")
 	)
 	(junction
 		(at 40.64 260.35)
@@ -837,16 +837,6 @@
 		)
 		(uuid "02f0be7b-ef6e-4ac4-b96d-9d1cc2081ad3")
 	)
-	(bus
-		(pts
-			(xy 189.23 139.7) (xy 194.31 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "183c4646-1bdc-4bfa-abe4-4762597616a5")
-	)
 	(wire
 		(pts
 			(xy 40.64 266.7) (xy 40.64 270.51)
@@ -856,16 +846,6 @@
 			(type default)
 		)
 		(uuid "1d19d0af-8fb2-4170-a1e3-7616705b0546")
-	)
-	(bus
-		(pts
-			(xy 185.42 133.35) (xy 185.42 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d22bf66-a1f0-43ec-8c1d-f9e8edf0ebdd")
 	)
 	(bus
 		(pts
@@ -879,7 +859,7 @@
 	)
 	(bus
 		(pts
-			(xy 185.42 144.78) (xy 194.31 144.78)
+			(xy 185.42 133.35) (xy 194.31 133.35)
 		)
 		(stroke
 			(width 0)
@@ -897,6 +877,16 @@
 		)
 		(uuid "3c7213ae-fc6f-46b7-9d9b-6663e98ca424")
 	)
+	(bus
+		(pts
+			(xy 185.42 133.35) (xy 185.42 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3de49f7d-784b-4874-9bf0-acdc0904f6c5")
+	)
 	(wire
 		(pts
 			(xy 40.64 247.65) (xy 41.91 247.65)
@@ -909,7 +899,7 @@
 	)
 	(bus
 		(pts
-			(xy 232.41 135.89) (xy 232.41 151.13)
+			(xy 231.14 134.62) (xy 231.14 151.13)
 		)
 		(stroke
 			(width 0)
@@ -949,7 +939,7 @@
 	)
 	(bus
 		(pts
-			(xy 228.6 135.89) (xy 232.41 135.89)
+			(xy 228.6 134.62) (xy 231.14 134.62)
 		)
 		(stroke
 			(width 0)
@@ -999,7 +989,7 @@
 	)
 	(bus
 		(pts
-			(xy 232.41 151.13) (xy 240.03 151.13)
+			(xy 231.14 151.13) (xy 240.03 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1196,16 +1186,6 @@
 			(type default)
 		)
 		(uuid "efa0e0aa-f633-4826-97a1-3bc4108a84a8")
-	)
-	(bus
-		(pts
-			(xy 185.42 180.34) (xy 185.42 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2314e86-ab84-4e97-8b64-9424ea83fc46")
 	)
 	(wire
 		(pts
@@ -2778,7 +2758,7 @@
 	)
 	(sheet
 		(at 194.31 124.46)
-		(size 34.29 24.13)
+		(size 34.29 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2804,7 +2784,7 @@
 			)
 		)
 		(property "Sheetfile" "pcie-switch.kicad_sch"
-			(at 194.31 149.1746 0)
+			(at 194.31 140.2846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2825,7 +2805,7 @@
 			)
 		)
 		(pin "PCIe_{x2_1}{PCIe}" bidirectional
-			(at 228.6 135.89 0)
+			(at 228.6 134.62 0)
 			(uuid "1817e95f-f419-4f55-8039-609b966a1440")
 			(effects
 				(font
@@ -2845,28 +2825,8 @@
 			)
 		)
 		(pin "{I_{2}C}" bidirectional
-			(at 194.31 144.78 180)
+			(at 194.31 133.35 180)
 			(uuid "169f3438-db6f-49c9-91df-1a18d281015b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{SPI}" bidirectional
-			(at 194.31 135.89 180)
-			(uuid "f6a976b1-8c5b-42b7-b32e-4dbf2cd7534f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "{JTAG}" bidirectional
-			(at 194.31 139.7 180)
-			(uuid "fc46e010-cadc-4dcb-94b2-67d69f5b4f44")
 			(effects
 				(font
 					(size 1.27 1.27)
