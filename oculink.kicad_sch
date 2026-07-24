@@ -4939,7 +4939,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 142.24) (xy 311.15 142.24)
+			(xy 299.72 142.24) (xy 330.2 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5399,7 +5399,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 144.78) (xy 311.15 144.78)
+			(xy 299.72 144.78) (xy 330.2 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5489,16 +5489,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 144.78) (xy 330.2 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e41e8759-fbff-462c-a635-fb3df6b3ce09")
-	)
-	(wire
-		(pts
 			(xy 55.88 193.04) (xy 55.88 194.31)
 		)
 		(stroke
@@ -5576,16 +5566,6 @@
 			(type default)
 		)
 		(uuid "f090a230-37ee-4ae2-b302-14b489aba1e2")
-	)
-	(wire
-		(pts
-			(xy 316.23 142.24) (xy 330.2 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7b80a61-fc9b-4a43-9778-a148f80f7664")
 	)
 	(wire
 		(pts
@@ -7671,7 +7651,7 @@
 		(uuid "1cda5d8a-7dda-43be-9e4a-8c7a82ce9bef")
 	)
 	(label "~{CPRSNT}"
-		(at 297.18 142.24 0)
+		(at 299.72 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7821,7 +7801,7 @@
 		(uuid "de0b82bb-d4d8-4f5d-930a-89e67cff3f70")
 	)
 	(label "~{CWAKE}"
-		(at 297.18 144.78 0)
+		(at 299.72 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12462,182 +12442,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 311.15 142.24 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "91ae421b-36a8-47c2-b164-0fce2b4f70d4")
-		(property "Reference" "R26"
-			(at 309.88 140.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "R_0R_0402"
-			(at 331.47 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 331.47 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 331.47 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 331.47 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 331.47 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 331.47 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 331.47 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 331.47 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Val" "0R"
-			(at 316.992 140.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 331.47 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Current" "1A"
-			(at 331.47 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b68c1adf-ff43-4b2c-abeb-1bea8a147514")
-		)
-		(pin "2"
-			(uuid "7363bce3-f877-4da8-aebd-2ed570391f3a")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/060dd0bf-c233-41b0-b6a6-fedf78cecf6f"
-					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
 		(at 102.87 200.66 90)
 		(unit 1)
@@ -14188,182 +13992,6 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/060dd0bf-c233-41b0-b6a6-fedf78cecf6f"
 					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 311.15 144.78 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b47530e0-248f-4d75-b465-c7c81ba10553")
-		(property "Reference" "R27"
-			(at 310.388 146.304 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "R_0R_0402"
-			(at 331.47 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 331.47 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 331.47 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 331.47 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "ERJ2GE0R00X"
-			(at 331.47 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "Panasonic"
-			(at 331.47 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 331.47 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 331.47 172.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Val" "0R"
-			(at 316.992 146.304 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 331.47 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Current" "1A"
-			(at 331.47 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "cad75aba-9fd0-4ef6-8226-72aa714c886c")
-		)
-		(pin "2"
-			(uuid "c23194ef-feea-4709-bfd2-80ba18bdc83e")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/060dd0bf-c233-41b0-b6a6-fedf78cecf6f"
-					(reference "R27")
 					(unit 1)
 				)
 			)
