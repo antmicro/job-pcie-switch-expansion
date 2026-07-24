@@ -8022,9 +8022,19 @@
 		)
 		(uuid "2e52bad2-5e6a-47f2-bf6f-3a19f8c9e0bd")
 	)
+	(text "Place close to VDDR, C_VDDR and VPH pins"
+		(exclude_from_sim no)
+		(at 39.116 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3058a2f2-8c30-4b2d-816f-c19a0bbc36fa")
+	)
 	(text "Place close to VP pins"
 		(exclude_from_sim no)
-		(at 152.4 131.572 0)
+		(at 184.15 145.288 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8066,7 +8076,7 @@
 	)
 	(text "Place close to VDDC and C_VDDC pins"
 		(exclude_from_sim no)
-		(at 72.898 132.08 0)
+		(at 116.84 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8159,12 +8169,6 @@
 		(uuid "0a43b6a5-750a-4fbd-93e8-f48a6d789131")
 	)
 	(junction
-		(at 69.85 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a825b13-64dc-4a1d-9274-651e4ec1626c")
-	)
-	(junction
 		(at 322.58 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8213,6 +8217,12 @@
 		(uuid "18bf13b6-0bde-46cc-9dce-f1680dd7c3e0")
 	)
 	(junction
+		(at 34.29 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b1f927f-3c83-492c-b539-3bd4f3696ede")
+	)
+	(junction
 		(at 201.93 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8229,6 +8239,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a5205a0-ed5e-4f9c-b6cc-ec79f71c2310")
+	)
+	(junction
+		(at 46.99 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "317b87a7-1817-46c4-8bce-bb9295db2348")
 	)
 	(junction
 		(at 189.23 142.24)
@@ -8249,6 +8265,12 @@
 		(uuid "363ee83e-4086-48ad-a809-38925735076e")
 	)
 	(junction
+		(at 27.94 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a3159d1-f5f4-48aa-85fd-2cf67f705ce1")
+	)
+	(junction
 		(at 186.69 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8259,18 +8281,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4312cf04-67aa-42b4-b810-6db8903d50a4")
-	)
-	(junction
-		(at 76.2 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45ab0bdf-3719-471b-bb23-32da74f94d49")
-	)
-	(junction
-		(at 69.85 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "482c7500-4cba-4a6b-a199-68ae65cf61b7")
 	)
 	(junction
 		(at 82.55 134.62)
@@ -8309,12 +8319,6 @@
 		(uuid "58826bf6-4bbe-4939-b8a6-59a3ffe0607d")
 	)
 	(junction
-		(at 76.2 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ea2cce4-12a8-4826-be6b-a4b24a3141d7")
-	)
-	(junction
 		(at 303.53 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8325,6 +8329,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "62349356-25c3-4624-979b-d0b43cc842ac")
+	)
+	(junction
+		(at 34.29 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65a66f22-7ede-483f-aae9-13494e67b845")
 	)
 	(junction
 		(at 107.95 134.62)
@@ -8375,6 +8385,12 @@
 		(uuid "83659fdc-658f-48c5-bca3-5e84706b8585")
 	)
 	(junction
+		(at 40.64 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86423da2-3d38-4782-aeca-dba86f0bf738")
+	)
+	(junction
 		(at 204.47 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8403,6 +8419,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e6eb5a5-71b8-489b-928c-cc0d58330369")
+	)
+	(junction
+		(at 40.64 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ae998bd-42fb-4001-89ba-0bc91de3402b")
+	)
+	(junction
+		(at 46.99 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9dc49c7c-cc86-4e7c-bd98-10ace3511a19")
 	)
 	(junction
 		(at 345.44 62.23)
@@ -8451,6 +8479,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bef74563-9e87-4a8f-be48-1cf436fdbf4e")
+	)
+	(junction
+		(at 27.94 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5accb4f-d49b-43b5-83c1-b7ad72c2b487")
 	)
 	(junction
 		(at 204.47 171.45)
@@ -9012,16 +9046,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 142.24) (xy 63.5 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0665439d-756f-4905-bbc9-bdd646a2aa81")
-	)
-	(wire
-		(pts
 			(xy 274.32 100.33) (xy 274.32 101.6)
 		)
 		(stroke
@@ -9029,16 +9053,6 @@
 			(type default)
 		)
 		(uuid "06d06bb9-49bd-4565-bffb-5295aa9f9cf3")
-	)
-	(wire
-		(pts
-			(xy 69.85 134.62) (xy 69.85 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "071547f5-763a-478b-9330-42dfc530cdab")
 	)
 	(wire
 		(pts
@@ -9259,16 +9273,6 @@
 			(type default)
 		)
 		(uuid "13ca0ad8-a430-432d-b5a0-6df8a8fc59a8")
-	)
-	(wire
-		(pts
-			(xy 69.85 134.62) (xy 76.2 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13d33bdb-6403-4133-b3ac-7bfd5a35f190")
 	)
 	(wire
 		(pts
@@ -9532,6 +9536,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 132.08) (xy 40.64 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24c0055e-cc03-4719-ad46-47b8710e8936")
+	)
+	(wire
+		(pts
 			(xy 121.92 92.71) (xy 157.48 92.71)
 		)
 		(stroke
@@ -9560,6 +9574,16 @@
 		)
 		(uuid "278842e7-9e2a-48e6-8eab-eef931f95a20")
 	)
+	(wire
+		(pts
+			(xy 46.99 133.35) (xy 53.34 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a55b805-fcbb-4c32-82cd-7fb02c438130")
+	)
 	(polyline
 		(pts
 			(xy 12.7 201.93) (xy 246.38 201.93)
@@ -9569,6 +9593,16 @@
 			(type default)
 		)
 		(uuid "2b4e3bdf-cf4c-4b5a-8c84-5cd57138f9a0")
+	)
+	(wire
+		(pts
+			(xy 27.94 139.7) (xy 27.94 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db45a79-788c-4474-bed8-f8a3d5b3f629")
 	)
 	(wire
 		(pts
@@ -9912,6 +9946,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 133.35) (xy 46.99 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44697ade-bb52-4d0a-ade1-aa414ad0a3bc")
+	)
+	(wire
+		(pts
 			(xy 119.38 224.79) (xy 119.38 227.33)
 		)
 		(stroke
@@ -10049,6 +10093,16 @@
 			(type default)
 		)
 		(uuid "4bcdb132-a329-49ca-86b4-dc3bd3b2da67")
+	)
+	(wire
+		(pts
+			(xy 40.64 133.35) (xy 46.99 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bef91a5-cb39-4dc2-8e20-e75f66e950e6")
 	)
 	(wire
 		(pts
@@ -10202,6 +10256,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 140.97) (xy 27.94 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55f91502-1778-45d8-836a-4fbadc0ed86d")
+	)
+	(wire
+		(pts
 			(xy 288.29 99.06) (xy 284.48 99.06)
 		)
 		(stroke
@@ -10322,6 +10386,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 139.7) (xy 40.64 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c21a90f-a62d-4590-8dfe-dc03676961a6")
+	)
+	(wire
+		(pts
 			(xy 119.38 186.69) (xy 119.38 189.23)
 		)
 		(stroke
@@ -10349,6 +10423,26 @@
 			(type default)
 		)
 		(uuid "5d370551-8c3b-4294-9455-160ba60874c1")
+	)
+	(wire
+		(pts
+			(xy 21.59 134.62) (xy 21.59 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d59c3c9-c746-4762-a44a-da17f1f00e67")
+	)
+	(wire
+		(pts
+			(xy 40.64 140.97) (xy 46.99 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dfb07ac-7aef-45d2-ac5b-49d79addbf3d")
 	)
 	(wire
 		(pts
@@ -10482,6 +10576,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 139.7) (xy 21.59 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "670b843e-200e-42c6-b548-db75c3c024da")
+	)
+	(wire
+		(pts
 			(xy 198.12 165.1) (xy 198.12 167.64)
 		)
 		(stroke
@@ -10599,16 +10703,6 @@
 			(type default)
 		)
 		(uuid "6cdb3738-6495-48b8-a9e8-f1fff814167e")
-	)
-	(wire
-		(pts
-			(xy 63.5 142.24) (xy 63.5 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d64fca6-b50d-44fe-b057-5f8959aa3a36")
 	)
 	(wire
 		(pts
@@ -10732,6 +10826,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 139.7) (xy 46.99 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75c3e698-5952-4b8d-837d-5b49edb6194c")
+	)
+	(wire
+		(pts
 			(xy 182.88 134.62) (xy 189.23 134.62)
 		)
 		(stroke
@@ -10799,16 +10903,6 @@
 			(type default)
 		)
 		(uuid "7d693b56-c05a-4430-bf9e-7b53b70fa178")
-	)
-	(wire
-		(pts
-			(xy 76.2 142.24) (xy 69.85 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dec8154-4a26-4cd8-ad3f-148332f79d5b")
 	)
 	(wire
 		(pts
@@ -11182,6 +11276,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 133.35) (xy 27.94 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8c726a-cd50-4a20-a407-38d0d5c37df0")
+	)
+	(wire
+		(pts
 			(xy 283.21 57.15) (xy 288.29 57.15)
 		)
 		(stroke
@@ -11299,6 +11403,16 @@
 			(type default)
 		)
 		(uuid "954b0788-affb-4592-b995-7cf144c639af")
+	)
+	(wire
+		(pts
+			(xy 34.29 133.35) (xy 34.29 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95930bed-9e11-4839-a1c1-b37b61fe9b26")
 	)
 	(wire
 		(pts
@@ -11512,6 +11626,26 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 140.97) (xy 34.29 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0e6ca62-77c3-477c-b452-bb880f5b3bf0")
+	)
+	(wire
+		(pts
+			(xy 53.34 140.97) (xy 53.34 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1a16a84-2e26-4d65-ad83-04867ab42c65")
+	)
+	(wire
+		(pts
 			(xy 135.89 87.63) (xy 157.48 87.63)
 		)
 		(stroke
@@ -11519,6 +11653,16 @@
 			(type default)
 		)
 		(uuid "a1affc4d-a6b9-473d-8c55-8019f3b71e6e")
+	)
+	(wire
+		(pts
+			(xy 40.64 133.35) (xy 40.64 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a20edbb4-eead-4459-8ceb-95d2c7a66a23")
 	)
 	(wire
 		(pts
@@ -11702,6 +11846,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 140.97) (xy 40.64 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adeab3b8-80e6-4155-bc6a-5af85429fadb")
+	)
+	(wire
+		(pts
 			(xy 283.21 54.61) (xy 288.29 54.61)
 		)
 		(stroke
@@ -11719,16 +11873,6 @@
 			(type default)
 		)
 		(uuid "af7ca217-0d4d-4ef4-9142-83cbcd07ff6c")
-	)
-	(wire
-		(pts
-			(xy 69.85 140.97) (xy 69.85 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af7eef6a-b561-43fc-8aa4-94a2d5b5db37")
 	)
 	(wire
 		(pts
@@ -11769,6 +11913,16 @@
 			(type default)
 		)
 		(uuid "b0b6497c-76d7-4bb2-b4d4-86c84482a8ab")
+	)
+	(wire
+		(pts
+			(xy 34.29 133.35) (xy 40.64 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0d851a6-a5b3-44dd-9ad0-ae44d465fa62")
 	)
 	(wire
 		(pts
@@ -11932,6 +12086,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 133.35) (xy 53.34 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdb2d5ef-b07b-4a54-b9ca-47fc4ba28313")
+	)
+	(wire
+		(pts
 			(xy 121.92 115.57) (xy 125.73 115.57)
 		)
 		(stroke
@@ -12002,6 +12166,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 140.97) (xy 40.64 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c02e1523-6180-4d35-87bb-e18a3288345b")
+	)
+	(wire
+		(pts
 			(xy 218.44 254) (xy 218.44 256.54)
 		)
 		(stroke
@@ -12019,16 +12193,6 @@
 			(type default)
 		)
 		(uuid "c0f30733-c0af-413c-9134-a54f062c3257")
-	)
-	(wire
-		(pts
-			(xy 63.5 134.62) (xy 69.85 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2859183-510b-43a6-a85e-ad6e0808484e")
 	)
 	(wire
 		(pts
@@ -12322,6 +12486,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 139.7) (xy 34.29 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0623607-44b6-4ffc-a9d3-3853ba89faf1")
+	)
+	(wire
+		(pts
 			(xy 121.92 44.45) (xy 123.19 44.45)
 		)
 		(stroke
@@ -12492,6 +12666,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 133.35) (xy 27.94 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d97f5aab-d36f-4812-8823-9b2900963123")
+	)
+	(wire
+		(pts
 			(xy 297.18 186.69) (xy 304.8 186.69)
 		)
 		(stroke
@@ -12519,6 +12703,16 @@
 			(type default)
 		)
 		(uuid "d9eb1e9a-6a5b-4ae2-9666-c58677cf5e6d")
+	)
+	(wire
+		(pts
+			(xy 27.94 133.35) (xy 34.29 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3aebd2-f24f-4f49-8f36-c0bc45abf1d9")
 	)
 	(wire
 		(pts
@@ -13022,16 +13216,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 135.89) (xy 63.5 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fba5f7f7-5933-46d8-a868-ef3cd153b264")
-	)
-	(wire
-		(pts
 			(xy 243.84 138.43) (xy 242.57 138.43)
 		)
 		(stroke
@@ -13049,6 +13233,16 @@
 			(type default)
 		)
 		(uuid "fd9c2b3e-2a15-4c4b-b99d-8da78889c49e")
+	)
+	(wire
+		(pts
+			(xy 46.99 140.97) (xy 53.34 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feeca204-430b-437b-a746-322ca868e5cc")
 	)
 	(bus
 		(pts
@@ -18698,6 +18892,117 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:+1V8")
+		(at 40.64 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0eb1b5ae-eaf6-4cbe-82d5-a59b28d94c57")
+		(property "Reference" "#PWR0172"
+			(at 55.88 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 40.64 128.524 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 55.88 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 55.88 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "d2d8359b-a02b-40af-9d5e-f1954be31626")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "#PWR0172")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroTransistorsFETsMOSFETsSingle:BSS138PW,115")
 		(at 161.29 236.22 0)
 		(unit 1)
@@ -20051,7 +20356,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
-		(at 69.85 140.97 90)
+		(at 34.29 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20061,7 +20366,7 @@
 		(dnp no)
 		(uuid "1f54d62d-22ad-4865-9844-146d8705d137")
 		(property "Reference" "C26"
-			(at 70.612 136.652 90)
+			(at 35.052 135.382 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20073,7 +20378,7 @@
 			)
 		)
 		(property "Value" "C_100n_0402"
-			(at 80.01 120.65 0)
+			(at 44.45 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20086,7 +20391,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 82.55 120.65 0)
+			(at 46.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20099,7 +20404,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
-			(at 85.09 120.65 0)
+			(at 49.53 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20112,7 +20417,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
-			(at 102.87 120.65 0)
+			(at 67.31 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20124,7 +20429,7 @@
 			)
 		)
 		(property "MPN" "GRM155R61H104KE14D"
-			(at 87.63 120.65 0)
+			(at 52.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20137,7 +20442,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 90.17 120.65 0)
+			(at 54.61 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20150,7 +20455,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 92.71 120.65 0)
+			(at 57.15 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20163,7 +20468,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 95.25 120.65 0)
+			(at 59.69 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20176,7 +20481,7 @@
 			)
 		)
 		(property "Val" "100n"
-			(at 74.93 139.446 90)
+			(at 39.37 138.176 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20188,7 +20493,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 97.79 120.65 0)
+			(at 62.23 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20200,7 +20505,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 100.33 120.65 0)
+			(at 64.77 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24451,6 +24756,117 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 40.64 142.24 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3c37be23-7a06-4e4d-a7bd-53aeddaae005")
+		(property "Reference" "#PWR0173"
+			(at 49.53 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 40.64 145.796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 49.53 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 49.53 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "1d3bcbd9-3ea3-4770-abb6-679b134e45eb")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -29722,6 +30138,183 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 21.59 139.7 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6b7f7562-0666-436e-83e1-40f0961765a9")
+		(property "Reference" "C91"
+			(at 22.352 135.382 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 31.75 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 34.29 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 36.83 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 54.61 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 39.37 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 41.91 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 44.45 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 46.99 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 26.67 138.176 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 49.53 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 52.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "b169febe-1f0e-46bf-95bb-46731273a71a")
+		)
+		(pin "1"
+			(uuid "195acfa3-5a58-4627-9643-41de5ed82b40")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "C91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:GND")
 		(at 339.09 190.5 0)
 		(unit 1)
@@ -30271,6 +30864,183 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR091")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 46.99 139.7 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "739783ed-df1e-474c-b371-a36020f3c27b")
+		(property "Reference" "C92"
+			(at 47.752 135.382 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 57.15 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 59.69 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 62.23 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 80.01 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 64.77 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 67.31 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 69.85 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 72.39 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 52.07 138.176 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 74.93 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 77.47 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "f2698676-ac8b-4cdf-a369-fc695c724717")
+		)
+		(pin "1"
+			(uuid "bd442635-10fa-43ce-8ed3-906856773b02")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "C92")
 					(unit 1)
 				)
 			)
@@ -32461,7 +33231,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
-		(at 63.5 140.97 90)
+		(at 27.94 139.7 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32471,7 +33241,7 @@
 		(dnp no)
 		(uuid "81053f0b-767c-45b0-9260-76350169d875")
 		(property "Reference" "C24"
-			(at 64.262 136.652 90)
+			(at 28.702 135.382 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32483,7 +33253,7 @@
 			)
 		)
 		(property "Value" "C_100n_0402"
-			(at 73.66 120.65 0)
+			(at 38.1 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32496,7 +33266,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 76.2 120.65 0)
+			(at 40.64 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32509,7 +33279,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
-			(at 78.74 120.65 0)
+			(at 43.18 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32522,7 +33292,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
-			(at 96.52 120.65 0)
+			(at 60.96 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32534,7 +33304,7 @@
 			)
 		)
 		(property "MPN" "GRM155R61H104KE14D"
-			(at 81.28 120.65 0)
+			(at 45.72 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32547,7 +33317,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 83.82 120.65 0)
+			(at 48.26 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32560,7 +33330,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 86.36 120.65 0)
+			(at 50.8 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32573,7 +33343,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 88.9 120.65 0)
+			(at 53.34 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32586,7 +33356,7 @@
 			)
 		)
 		(property "Val" "100n"
-			(at 68.58 139.446 90)
+			(at 33.02 138.176 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32598,7 +33368,7 @@
 			)
 		)
 		(property "Voltage" "50V"
-			(at 91.44 120.65 0)
+			(at 55.88 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32610,7 +33380,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 93.98 120.65 0)
+			(at 58.42 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37746,6 +38516,183 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_1u_0402")
+		(at 53.34 139.7 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa34e23e-7164-433a-a805-92703d6bcf60")
+		(property "Reference" "C93"
+			(at 53.848 135.636 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_1u_0402"
+			(at 63.5 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 66.04 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=C1005X6S1A105K050BC"
+			(at 68.58 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1 µF, 10 V, 0402 [1005 Metric], ± 10%, X6S, C"
+			(at 86.36 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "C1005X6S1A105K050BC"
+			(at 71.12 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 73.66 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 76.2 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "1u"
+			(at 56.388 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" ""
+			(at 81.28 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" ""
+			(at 83.82 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "02da3df0-c7bf-46b8-84a0-453e85f88e77")
+		)
+		(pin "2"
+			(uuid "6ed7d971-029d-4e43-bb22-218605a40acc")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "C93")
 					(unit 1)
 				)
 			)
@@ -43830,6 +44777,183 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroCapacitors0402:C_100n_0402")
+		(at 40.64 139.7 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e1687b6d-26d6-467d-9462-dbfce5db1afa")
+		(property "Reference" "C90"
+			(at 41.402 135.382 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_100n_0402"
+			(at 50.8 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 53.34 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H104KE14%23"
+			(at 55.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
+			(at 73.66 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155R61H104KE14D"
+			(at 58.42 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 60.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 63.5 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 66.04 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "100n"
+			(at 45.72 138.176 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 68.58 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 71.12 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "f7de8f19-bf05-4412-8408-4a84064394a8")
+		)
+		(pin "1"
+			(uuid "93ca0460-92a8-4189-b4c5-098648e335ad")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
+					(reference "C90")
 					(unit 1)
 				)
 			)
