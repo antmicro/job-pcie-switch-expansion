@@ -5517,7 +5517,7 @@
 		)
 		(uuid "7f8c14aa-bfd6-47ef-9701-ec1c032bc01e")
 	)
-	(text "D6: OFF, D7: ON = PORT A"
+	(text "D8: OFF, D9: ON = PORT A"
 		(exclude_from_sim no)
 		(at 107.188 211.074 0)
 		(effects
@@ -5539,7 +5539,7 @@
 		)
 		(uuid "c397a436-382c-4b14-959b-0cd654ca6220")
 	)
-	(text "D6: ON, D7: OFF = PORT B"
+	(text "D8: ON, D9: OFF = PORT B"
 		(exclude_from_sim no)
 		(at 93.98 214.63 0)
 		(effects
