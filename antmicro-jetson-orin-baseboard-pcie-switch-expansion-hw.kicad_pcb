@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(general
-		(thickness 1.62)
+		(thickness 1.73)
 		(legacy_teardrops no)
 	)
 	(paper "A3")
@@ -19,8 +19,6 @@
 		(6 "In2.Cu" signal)
 		(8 "In3.Cu" signal)
 		(10 "In4.Cu" jumper)
-		(12 "In5.Cu" signal)
-		(14 "In6.Cu" signal)
 		(2 "B.Cu" signal)
 		(9 "F.Adhes" user "F.Adhesive")
 		(11 "B.Adhes" user "B.Adhesive")
@@ -81,7 +79,7 @@
 			)
 			(layer "dielectric 2"
 				(type "core")
-				(thickness 0.2)
+				(thickness 0.51)
 				(material "FR4")
 				(epsilon_r 4.39)
 				(loss_tangent 0.02)
@@ -92,14 +90,14 @@
 			)
 			(layer "dielectric 3"
 				(type "prepreg")
-				(thickness 0.12)
-				(material "PR2116")
-				(epsilon_r 4.39)
+				(thickness 0.07)
+				(material "PR1080")
+				(epsilon_r 3.91)
 				(loss_tangent 0.02) addsublayer
-				(thickness 0.12)
-				(material "PR2116")
-				(epsilon_r 4.39)
-				(loss_tangent 0)
+				(thickness 0.07)
+				(material "PR1080")
+				(epsilon_r 3.91)
+				(loss_tangent 0.02)
 			)
 			(layer "In3.Cu"
 				(type "copper")
@@ -107,7 +105,7 @@
 			)
 			(layer "dielectric 4"
 				(type "core")
-				(thickness 0.2)
+				(thickness 0.51)
 				(material "FR4")
 				(epsilon_r 4.39)
 				(loss_tangent 0.02)
@@ -118,7 +116,7 @@
 			)
 			(layer "dielectric 5"
 				(type "prepreg")
-				(thickness 0.12)
+				(thickness 0.1)
 				(material "PR2116")
 				(epsilon_r 4.39)
 				(loss_tangent 0.02) addsublayer
@@ -126,28 +124,6 @@
 				(material "PR2116")
 				(epsilon_r 4.39)
 				(loss_tangent 0)
-			)
-			(layer "In5.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 6"
-				(type "core")
-				(thickness 0.2)
-				(material "FR4")
-				(epsilon_r 4.39)
-				(loss_tangent 0.02)
-			)
-			(layer "In6.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 7"
-				(type "prepreg")
-				(thickness 0.12)
-				(material "PR2116")
-				(epsilon_r 4.3)
-				(loss_tangent 0.02)
 			)
 			(layer "B.Cu"
 				(type "copper")
@@ -184,6 +160,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
