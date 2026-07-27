@@ -9136,6 +9136,16 @@
 	)
 	(wire
 		(pts
+			(xy 321.31 59.69) (xy 322.58 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c423855-ff00-47e6-8890-1cf96b566c70")
+	)
+	(wire
+		(pts
 			(xy 217.17 119.38) (xy 222.25 119.38)
 		)
 		(stroke
@@ -12386,7 +12396,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 54.61) (xy 322.58 54.61)
+			(xy 321.31 54.61) (xy 335.28 54.61)
 		)
 		(stroke
 			(width 0)
@@ -12833,16 +12843,6 @@
 			(type default)
 		)
 		(uuid "e3a5892a-e11e-4a6e-8753-3e3e1da72466")
-	)
-	(wire
-		(pts
-			(xy 321.31 59.69) (xy 335.28 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e41e03fe-2de9-4588-9445-1f890de351f4")
 	)
 	(bus
 		(pts
@@ -16411,7 +16411,7 @@
 		)
 		(uuid "41c5f1a4-41c5-48e6-bfa7-68e9f5583aa7")
 	)
-	(label "HP_LED6"
+	(label "HP_LED4"
 		(at 44.45 248.92 0)
 		(effects
 			(font
@@ -16751,8 +16751,8 @@
 		)
 		(uuid "af872c6a-2a36-45ad-a5a1-b5f37887581d")
 	)
-	(label "HP_LED6"
-		(at 335.28 59.69 180)
+	(label "HP_LED4"
+		(at 335.28 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22555,7 +22555,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1mm_SMD")
-		(at 322.58 54.61 0)
+		(at 322.58 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22566,7 +22566,7 @@
 		(fields_autoplaced yes)
 		(uuid "2de35920-af35-4f2a-a255-c4c92610f5db")
 		(property "Reference" "TP37"
-			(at 327.66 54.61 0)
+			(at 327.66 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22578,7 +22578,7 @@
 			)
 		)
 		(property "Value" "TP_1mm_SMD"
-			(at 337.82 62.23 0)
+			(at 337.82 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22591,66 +22591,6 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1mm"
-			(at 337.82 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 340.36 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Test point 1mm SMD"
-			(at 337.82 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" ""
-			(at 322.58 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 322.58 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Author" "Antmicro"
 			(at 337.82 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -22663,8 +22603,68 @@
 				(justify left bottom)
 			)
 		)
+		(property "Datasheet" ""
+			(at 340.36 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Test point 1mm SMD"
+			(at 337.82 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 322.58 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 322.58 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 337.82 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "License" "Apache-2.0"
-			(at 337.82 72.39 0)
+			(at 337.82 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
