@@ -1031853,6 +1031853,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "PCB SHA ########"
+		(at 262.7 128.8 90)
+		(layer "B.SilkS")
+		(uuid "f5d32491-0724-420d-b29f-ab85ee3d7d51")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "M.2 2280"
 		(at 234.652297 129.832297 0)
 		(layer "User.1")
