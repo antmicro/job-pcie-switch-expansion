@@ -1,0 +1,34 @@
+(version 1)
+
+#----------------------- PCIe -----------------------
+(rule "(pcie_inner"
+	(layer inner)
+	(condition "(A.NetClass == '85Ohm-diff_PCIe3.0')")
+	(constraint track_width (opt 0.15mm))
+	(constraint diff_pair_gap  (opt 0.15mm))
+#	(constraint diff_pair_uncoupled (max 2mm))
+)
+(rule "(pcie_outer"
+	(layer outer)
+	(condition "(A.NetClass == '85Ohm-diff_PCIe3.0')")
+	(constraint track_width (opt 0.125mm))
+	(constraint diff_pair_gap  (opt 0.125mm))
+#	(constraint diff_pair_uncoupled (max 2mm))
+)
+
+(rule "(pcie_clk_inner"
+	(layer inner)
+	(condition "(A.NetClass == '100Ohm-diff_PCIe3.0_CLK')")
+	(constraint track_width (opt 0.125mm))
+	(constraint diff_pair_gap  (opt 0.22mm))
+#	(constraint diff_pair_uncoupled (max 2mm))
+)
+(rule "(pcie_clk_outer"
+	(layer outer)
+	(condition "(A.NetClass == '100Ohm-diff_PCIe3.0_CLK')")
+	(constraint track_width (opt 0.17mm))
+	(constraint diff_pair_gap  (opt 0.125mm))
+#	(constraint diff_pair_uncoupled (max 2mm))
+)
+
+#---------------------------------------------

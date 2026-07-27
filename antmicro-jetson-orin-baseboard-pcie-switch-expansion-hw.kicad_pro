@@ -540,146 +540,26 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.18,
-        "diff_pair_width": 0.15,
+        "diff_pair_gap": 0.125,
+        "diff_pair_width": 0.125,
         "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "100Ohm-diff_CSI",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.18,
-        "diff_pair_width": 0.15,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "100Ohm-diff_DSI",
+        "name": "100Ohm-diff_PCIe3.0_CLK",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
         "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
         "wire_width": 6
       },
       {
         "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.18,
-        "diff_pair_width": 0.15,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "100Ohm-diff_ETH",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.18,
-        "diff_pair_width": 0.15,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "100Ohm-diff_HDMI",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "50Ohm-se_SDIO",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.21,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.127,
         "diff_pair_gap": 0.15,
         "diff_pair_width": 0.17,
         "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "90Ohm-diff_PCIe2.0",
+        "name": "85Ohm-diff_PCIe3.0",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
         "tuning_profile": "",
-        "via_diameter": 0.5,
-        "via_drill": 0.2,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.196,
-        "diff_pair_gap": 0.196,
-        "diff_pair_width": 0.182,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "90Ohm-diff_USB2.0",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.182,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.3,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "PoE",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 7,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.127,
-        "tuning_profile": "",
-        "via_diameter": 0.45,
-        "via_drill": 0.1,
         "wire_width": 6
       }
     ],
@@ -690,60 +570,28 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "100Ohm-diff_ETH",
-        "pattern": "*ETHERNET.D*"
+        "netclass": "100Ohm-diff_PCIe3.0_CLK",
+        "pattern": "*PCIe_{x2}.CLK*"
       },
       {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USB*D_P"
+        "netclass": "100Ohm-diff_PCIe3.0_CLK",
+        "pattern": "*REFCLK*"
       },
       {
-        "netclass": "90Ohm-diff_USB2.0",
-        "pattern": "*USB*D_N"
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": "*PET*"
       },
       {
-        "netclass": "100Ohm-diff_CSI",
-        "pattern": "*CSI*_P"
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": ".*PER[0-9]+.*"
       },
       {
-        "netclass": "100Ohm-diff_CSI",
-        "pattern": "*CSI*_N"
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": "*PCIe_{x2}.RX*"
       },
       {
-        "netclass": "100Ohm-diff_DSI",
-        "pattern": "*DSI.*"
-      },
-      {
-        "netclass": "100Ohm-diff_HDMI",
-        "pattern": "*HDMI*_N"
-      },
-      {
-        "netclass": "100Ohm-diff_HDMI",
-        "pattern": "*HDMI*_P"
-      },
-      {
-        "netclass": "90Ohm-diff_PCIe2.0",
-        "pattern": "*NVMe*_N"
-      },
-      {
-        "netclass": "90Ohm-diff_PCIe2.0",
-        "pattern": "*NVMe*_P"
-      },
-      {
-        "netclass": "90Ohm-diff_PCIe2.0",
-        "pattern": "/Compute module/??_?"
-      },
-      {
-        "netclass": "50Ohm-se_SDIO",
-        "pattern": "*SDIO*"
-      },
-      {
-        "netclass": "PoE",
-        "pattern": "/Ethernet/*"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "/Ethernet/POE_12V"
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": "*PCIe_{x2}.TX*"
       }
     ]
   },
