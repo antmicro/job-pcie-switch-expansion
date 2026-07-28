@@ -9968,7 +9968,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6b3e756-3d18-4337-99de-cf2ae91053e1")
 		(property "Reference" "H11"
 			(at 280.416 200.914 0)
