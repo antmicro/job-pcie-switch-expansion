@@ -9,7 +9,7 @@
 	(paper "A3")
 	(title_block
 		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
-		(date "2026-07-23")
+		(date "2026-07-29")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
@@ -1049998,8 +1049998,7 @@
 					(start 189.825 99.434008)
 					(mid 189.90112 99.816692)
 					(end 190.117893 100.141115)
-				)
-				(xy 190.201278 100.2245) (xy 190.5235 100.2245) (xy 190.793093 99.954907)
+				) (xy 190.201278 100.2245) (xy 190.5235 100.2245) (xy 190.793093 99.954907)
 			)
 		)
 		(base_line_coupled
