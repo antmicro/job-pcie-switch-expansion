@@ -10953,16 +10953,6 @@
 			)
 		)
 	)
-	(label "Mux_PCIe_{x2_0}.TX0_R_P"
-		(at 353.06 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "051b910d-0022-4190-b50f-89b6bf71006c")
-	)
 	(label "PCIe_{x2}.RX1_P"
 		(at 262.89 116.84 0)
 		(effects
@@ -10973,18 +10963,8 @@
 		)
 		(uuid "07d1d8c7-45a9-4b2c-9295-5d9845e446d4")
 	)
-	(label "Mux_PCIe_{x2_0}.TX1_P"
-		(at 340.36 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "21acff00-45be-4c0b-9c89-07a3f2cf5883")
-	)
 	(label "Mux_PCIe_{x2_1}.TX1_N"
-		(at 313.69 106.68 0)
+		(at 353.06 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11003,16 +10983,6 @@
 		)
 		(uuid "22652d17-e965-40b7-908b-209a7cca0039")
 	)
-	(label "Mux_PCIe_{x2_0}.TX0_R_N"
-		(at 353.06 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "252c83a5-8930-456c-a553-7092c64ee521")
-	)
 	(label "Mux_PCIe_{x2_0}.RX0_N"
 		(at 334.01 85.09 180)
 		(effects
@@ -11022,6 +10992,16 @@
 			(justify right bottom)
 		)
 		(uuid "26b28d47-4144-4e6e-b4ec-e599e031a49b")
+	)
+	(label "Mux_PCIe_{x2_1}.TX0+"
+		(at 314.96 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ce78a1f-fee8-487f-8fbf-a6d4389e51fe")
 	)
 	(label "PCIe_{x2}.~{RST}"
 		(at 220.98 217.17 180)
@@ -11054,7 +11034,7 @@
 		(uuid "30041f79-02af-42f6-bc4c-822f81dac707")
 	)
 	(label "Mux_PCIe_{x2_0}.TX1_P"
-		(at 313.69 97.79 0)
+		(at 353.06 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11064,7 +11044,7 @@
 		(uuid "3812e79d-6dcd-4257-acd3-3705d7be3fa0")
 	)
 	(label "Mux_PCIe_{x2_1}.TX0_P"
-		(at 314.96 73.66 0)
+		(at 353.06 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11074,7 +11054,7 @@
 		(uuid "386666a3-18c3-4bdb-ae10-6a248fa371fd")
 	)
 	(label "Mux_PCIe_{x2_1}.TX0_N"
-		(at 314.96 76.2 0)
+		(at 353.06 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11104,7 +11084,7 @@
 		(uuid "3cafb828-1b75-420c-ad13-6a22bcbc6737")
 	)
 	(label "Mux_PCIe_{x2_0}.TX1_N"
-		(at 313.69 100.33 0)
+		(at 353.06 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11124,7 +11104,7 @@
 		(uuid "41ace0eb-3750-4b9e-b904-3974485337c4")
 	)
 	(label "Mux_PCIe_{x2_0}.TX0_N"
-		(at 314.96 69.85 0)
+		(at 353.06 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11143,6 +11123,16 @@
 		)
 		(uuid "4ba9de28-379d-4c7e-be64-9a8559dd61e8")
 	)
+	(label "Mux_PCIe_{x2_0}.TX0+"
+		(at 314.96 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f0305c3-2b3a-4d84-9a6e-e040f0b6d97b")
+	)
 	(label "PCIe_{x2}.TX1_P"
 		(at 262.89 101.6 0)
 		(effects
@@ -11154,7 +11144,7 @@
 		(uuid "5340ba2c-6776-40be-bf81-52f4dc4899e7")
 	)
 	(label "Mux_PCIe_{x2_1}.TX1_P"
-		(at 313.69 104.14 0)
+		(at 353.06 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11172,16 +11162,6 @@
 			(justify left bottom)
 		)
 		(uuid "56b57998-b7dd-4d18-8522-302884cc2fde")
-	)
-	(label "Mux_PCIe_{x2_1}.TX0_R_P"
-		(at 353.06 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "57569377-aae2-44ed-9757-6d5bbf37b8ff")
 	)
 	(label "Mux_PCIe_{x2_1}.CLK_N"
 		(at 100.33 143.51 0)
@@ -11203,15 +11183,15 @@
 		)
 		(uuid "5d717a37-b5ac-4482-b478-20f8d76555b4")
 	)
-	(label "Mux_PCIe_{x2_1}.TX1_R_P"
-		(at 353.06 104.14 0)
+	(label "Mux_PCIe_{x2_0}.TX1-"
+		(at 314.96 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "69e9d036-0fa4-49fe-8f49-9a0cfda98fcc")
+		(uuid "74ad597d-5433-4da2-9bc8-22269c9e6ff3")
 	)
 	(label "PCIE_{MUX_CH}"
 		(at 62.23 242.57 0)
@@ -11232,36 +11212,6 @@
 			(justify left bottom)
 		)
 		(uuid "765017ce-a33d-4bd6-83a0-dfdcec6290f2")
-	)
-	(label "Mux_PCIe_{x2_0}.TX1_N"
-		(at 340.36 133.35 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "77fe150e-ffc7-4652-8fe8-fbda10bb95ea")
-	)
-	(label "Mux_PCIe_{x2_0}.TX1_R_P"
-		(at 353.06 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7a27025e-d62b-45ae-8df6-dda227aefb0a")
-	)
-	(label "Mux_PCIe_{x2_1}.TX0_R_N"
-		(at 353.06 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7c374438-b464-4404-93fc-0828a1005515")
 	)
 	(label "Mux_PCIe_{x2_1}.~{CLK_REQ}"
 		(at 328.93 238.76 0)
@@ -11323,15 +11273,15 @@
 		)
 		(uuid "9ae0f253-301a-468f-ab2b-fbee79812f1e")
 	)
-	(label "Mux_PCIe_{x2_0}.TX1_R_N"
-		(at 353.06 100.33 0)
+	(label "Mux_PCIe_{x2_1}.TX1-"
+		(at 314.96 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "a3f57abc-8cfd-41be-81cf-1b92625e61d9")
+		(uuid "a3293137-f1f3-4ad1-bdd8-560ced0fa7d0")
 	)
 	(label "SEL_3V3"
 		(at 290.83 232.41 0)
@@ -11373,6 +11323,16 @@
 		)
 		(uuid "b8bd6aca-e6ae-4c86-b4c7-101070c1b9b2")
 	)
+	(label "Mux_PCIe_{x2_1}.TX0-"
+		(at 314.96 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb75ff5a-8ee3-434c-bff2-9c11670dce31")
+	)
 	(label "Mux_PCIe_{x2_0}.RX0_P"
 		(at 334.01 82.55 180)
 		(effects
@@ -11413,6 +11373,26 @@
 		)
 		(uuid "ce1226ab-f18c-4560-85c4-b328e3616791")
 	)
+	(label "Mux_PCIe_{x2_0}.TX1+"
+		(at 314.96 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d593661d-240f-415f-981d-211e6c3c26d5")
+	)
+	(label "Mux_PCIe_{x2_0}.TX0-"
+		(at 314.96 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d827740f-b67f-4598-ad4b-131974777dc9")
+	)
 	(label "Mux_PCIe_{x2_0}.~{RST}"
 		(at 328.93 210.82 0)
 		(effects
@@ -11422,16 +11402,6 @@
 			(justify left bottom)
 		)
 		(uuid "db78cb60-568a-4f4d-94a3-7f856474b990")
-	)
-	(label "Mux_PCIe_{x2_1}.TX1_R_N"
-		(at 353.06 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dfa845fb-d4f6-428f-a1fc-75227f83b7d8")
 	)
 	(label "PCIe_{x2}.TX1_N"
 		(at 262.89 104.14 0)
@@ -11463,8 +11433,18 @@
 		)
 		(uuid "f076a80a-3e12-4ba7-9dab-fd90605d8898")
 	)
+	(label "Mux_PCIe_{x2_1}.TX1+"
+		(at 314.96 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2513877-dd8b-4c4e-8c9b-aa3fe4be0af9")
+	)
 	(label "Mux_PCIe_{x2_0}.TX0_P"
-		(at 314.96 67.31 0)
+		(at 353.06 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
