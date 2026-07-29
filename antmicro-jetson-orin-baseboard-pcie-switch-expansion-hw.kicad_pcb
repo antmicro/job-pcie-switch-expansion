@@ -386879,7 +386879,7 @@
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "B.Cu")
 		(uuid "0ee36ef3-ada5-409c-b72e-3cc79a88176c")
-		(at 179.7 84.35 -90)
+		(at 256.275 123.225 -90)
 		(property "Reference" "TP2"
 			(at 0 0.6 90)
 			(layer "B.SilkS")
@@ -753272,7 +753272,7 @@
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "B.Cu")
 		(uuid "753f9c61-e009-40fd-a0bd-49b0b47675e8")
-		(at 184.75 79.35 180)
+		(at 258.5 121.4 180)
 		(property "Reference" "TP1"
 			(at 0 0.6 0)
 			(layer "B.SilkS")
@@ -838351,7 +838351,7 @@
 	(footprint "antmicro-footprints:TP_SMD_0.75mm"
 		(layer "B.Cu")
 		(uuid "96838c82-94f4-4280-bf32-443cf6d5a3cc")
-		(at 182.8 84.05 -90)
+		(at 258.55 123.3 -90)
 		(property "Reference" "TP4"
 			(at 0 0.6 90)
 			(layer "B.SilkS")
@@ -936304,7 +936304,7 @@
 	(footprint "antmicro-footprints:TP_SMD_1mm"
 		(layer "B.Cu")
 		(uuid "c6da9321-4e76-4bf4-8445-58e8e464e11c")
-		(at 179.7 79.3 180)
+		(at 256.225 121.375 180)
 		(property "Reference" "TP19"
 			(at 0 0.731898 0)
 			(layer "B.SilkS")
