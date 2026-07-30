@@ -146,8 +146,8 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.125,
-        "min_connection": 0.125,
+        "min_clearance": 0.1,
+        "min_connection": 0.1,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
@@ -159,7 +159,7 @@
         "min_text_height": 0.65,
         "min_text_thickness": 0.1,
         "min_through_hole_diameter": 0.1,
-        "min_track_width": 0.125,
+        "min_track_width": 0.1,
         "min_via_annular_width": 0.15,
         "min_via_diameter": 0.1,
         "solder_mask_to_copper_clearance": 0.0,
@@ -525,7 +525,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.125,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -551,6 +551,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.125,
         "tuning_profile": "",
         "wire_width": 6
       },
@@ -563,6 +564,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.17,
         "tuning_profile": "",
         "wire_width": 6
       }
@@ -600,6 +602,14 @@
       {
         "netclass": "85Ohm-diff_PCIe3.0",
         "pattern": "*Mux_PCIe*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": "*PCIe_{x2_0}*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe3.0",
+        "pattern": "*PCIe_{x2_1}*"
       }
     ]
   },
@@ -772,7 +782,7 @@
         "uuid": "9f8272ef-d62d-4578-9094-a2852fcd4bf4"
       }
     ],
-    "used_designators": "RT1,Q1-12,H1-12,H501-503,U1-15,U21-22,U26,U40,U302,D1-14,D17-18,D33,D306,D503-506,#PWR1-176,#PWR179-180,#PWR184-194,#PWR230-238,#PWR273,#PWR292-293,#PWR317,#PWR319-320,#PWR322-323,#PWR325-326,#PWR331,#PWR333-350,#PWR419-422,#PWR505-517,SP1,SP8-9,#FLG1-13,J1-8,J501-503,SW1,L1-4,L302,M1-4,M501-503,R1-144,R146-148,R173,R176-179,R218,R220-238,R240,R264,R311-312,R320-321,R323,R327,R355,R501-515,TP1-51,TP54,TP309,TP501-512,A1-2,MP1-2,C1-96,C121-123,C125-131,C151,C154-155,C306,C309,C314,C317,C501-518,N1",
+    "used_designators": "R1-144,R146-148,R173,R176-179,R218,R220-238,R240,R264,R311-312,R320-321,R323,R327,R355,R501-515,M1-4,M501-503,L1-4,L302,SW1,J1-8,J501-503,N1,A1-2,U1-15,U21-22,U26,U40,U302,D1-14,D17-18,D33,D306,D503-506,C1-96,C121-123,C125-131,C151,C154-155,C306,C309,C314,C317,C501-518,MP1-2,#FLG1-13,TP1-51,TP54,TP309,TP501-512,H1-12,H501-503,Q1-12,RT1,#PWR1-176,#PWR179-180,#PWR184-194,#PWR230-238,#PWR273,#PWR292-293,#PWR317,#PWR319-320,#PWR322-323,#PWR325-326,#PWR331,#PWR333-350,#PWR419-422,#PWR505-517,SP1,SP8-9",
     "variants": []
   },
   "sheets": [
