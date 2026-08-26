@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
-		(date "2026-08-11")
+		(date "2026-08-26")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
@@ -4362,12 +4362,6 @@
 		(uuid "426e533e-43dc-4b61-a8a0-57c2adceff88")
 	)
 	(junction
-		(at 160.02 191.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44bea18c-2a25-4eec-82ef-7d1823c66795")
-	)
-	(junction
 		(at 99.06 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4378,12 +4372,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4aba4610-98ad-4e70-b254-8ca72871bba6")
-	)
-	(junction
-		(at 71.12 191.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58bb8c9e-bb1a-4828-ad4b-4b67292f0b56")
 	)
 	(junction
 		(at 127 100.33)
@@ -4726,16 +4714,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 196.85) (xy 162.56 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "263342cc-8cf0-4692-a737-f9dce12e72c4")
-	)
-	(wire
-		(pts
 			(xy 293.37 190.5) (xy 330.2 190.5)
 		)
 		(stroke
@@ -4763,6 +4741,16 @@
 			(type default)
 		)
 		(uuid "2d941333-2611-48ff-9a1b-66e643ac30de")
+	)
+	(wire
+		(pts
+			(xy 72.39 196.85) (xy 73.66 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31054c72-c4f5-4640-85c2-21bec17744d4")
 	)
 	(wire
 		(pts
@@ -4923,16 +4911,6 @@
 			(type default)
 		)
 		(uuid "4de4911d-fa85-4691-98f6-1d128715f42c")
-	)
-	(wire
-		(pts
-			(xy 71.12 196.85) (xy 73.66 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fd7deb9-bc5d-4def-b03f-c14185ef5519")
 	)
 	(wire
 		(pts
@@ -5236,6 +5214,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 196.85) (xy 162.56 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d142488-f544-4efc-8639-47ea4e69e3ac")
+	)
+	(wire
+		(pts
 			(xy 152.4 186.69) (xy 152.4 187.96)
 		)
 		(stroke
@@ -5526,16 +5514,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 191.77) (xy 160.02 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4ede997-7e57-40aa-b537-bdc8dd042ecb")
-	)
-	(wire
-		(pts
 			(xy 104.14 119.38) (xy 99.06 119.38)
 		)
 		(stroke
@@ -5783,16 +5761,6 @@
 			(type default)
 		)
 		(uuid "f08f15a4-12d7-4910-97ad-3238fdbb004e")
-	)
-	(wire
-		(pts
-			(xy 71.12 191.77) (xy 71.12 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f090a230-37ee-4ae2-b302-14b489aba1e2")
 	)
 	(wire
 		(pts
@@ -8066,6 +8034,54 @@
 			(justify left bottom)
 		)
 		(uuid "feb1a42a-0841-4159-9230-25afd1165ba2")
+	)
+	(global_label "~{PCIE_{MUX_CH}}"
+		(shape input)
+		(at 161.29 196.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "206c0c72-ed8f-43a8-9dfa-79225c131aba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.9126 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "~{PCIE_{MUX_CH}}"
+		(shape input)
+		(at 72.39 196.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b29342b2-1e70-46bb-b70d-e1ed64f7dbae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.0126 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(global_label "~{OCULINK_CWAKE}"
 		(shape input)

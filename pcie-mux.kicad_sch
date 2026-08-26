@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
-		(date "2026-08-11")
+		(date "2026-08-26")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
@@ -2103,7 +2103,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "antmicroLEDIndicationDiscrete:LED_G_0603_LG_L29K-G2J1-24-Z"
+		(symbol "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608CGCK"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2116,7 +2116,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "D"
-				(at 20.32 -2.54 0)
+				(at 22.86 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2127,8 +2127,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "LED_G_0603_LG_L29K-G2J1-24-Z"
-				(at 20.32 -7.62 0)
+			(property "Value" "LED_G_0603_KP-1608CGCK"
+				(at 22.86 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2141,7 +2141,7 @@
 				)
 			)
 			(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-				(at 20.32 -10.16 0)
+				(at 22.86 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2153,8 +2153,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Datasheet" "https://look.ams-osram.com/m/19ee86b3ae0ee95b/original/LG-L29K.pdf"
-				(at 20.32 -12.7 0)
+			(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch//000/00/00/KP-1608CGCK(Ver.23B).pdf"
+				(at 22.86 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2166,8 +2166,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Description" "LED, Green, SMD, 0603, 20 mA, 1.7 V, 570 nm"
-				(at 20.32 -25.4 0)
+			(property "Description" "LED, Green, SMD, 0603, 20 mA, 2.1 V, 570 nm"
+				(at 22.86 -25.4 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2178,8 +2178,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "MPN" "LG L29K-G2J1-24-Z"
-				(at 20.32 -15.24 0)
+			(property "MPN" "KP-1608CGCK"
+				(at 22.86 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2191,8 +2191,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Manufacturer" "OSRAM"
-				(at 20.32 -17.78 0)
+			(property "Manufacturer" "Kingbright"
+				(at 22.86 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2205,7 +2205,7 @@
 				)
 			)
 			(property "Color" "Green"
-				(at 20.32 -5.08 0)
+				(at 22.86 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2216,7 +2216,7 @@
 				)
 			)
 			(property "Author" "Antmicro"
-				(at 20.32 -20.32 0)
+				(at 22.86 -20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2229,7 +2229,7 @@
 				)
 			)
 			(property "License" "Apache-2.0"
-				(at 20.32 -22.86 0)
+				(at 22.86 -22.86 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2241,7 +2241,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "ki_keywords" "SMT, DIODE, SEMICONDUCTOR, LED"
+			(property "ki_keywords" "SMT, DIODE, SEMICONDUCTOR, LED, RoHS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2252,7 +2252,7 @@
 					)
 				)
 			)
-			(symbol "LED_G_0603_LG_L29K-G2J1-24-Z_0_1"
+			(symbol "LED_G_0603_KP-1608CGCK_0_1"
 				(polyline
 					(pts
 						(xy 1.905 0) (xy 0.635 0)
@@ -2278,7 +2278,7 @@
 					)
 				)
 			)
-			(symbol "LED_G_0603_LG_L29K-G2J1-24-Z_1_1"
+			(symbol "LED_G_0603_KP-1608CGCK_1_1"
 				(polyline
 					(pts
 						(xy 1.143 2.286) (xy 1.143 1.778) (xy 1.143 2.286) (xy 1.651 2.286) (xy 1.143 2.286) (xy 2.159 1.27)
@@ -5633,6 +5633,12 @@
 		(uuid "553d4b90-f370-4824-b8ca-67007a3b6d40")
 	)
 	(junction
+		(at 271.78 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58706cfb-d954-4f65-a756-d9bf30f01b86")
+	)
+	(junction
 		(at 245.11 204.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6943,6 +6949,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 233.68) (xy 91.44 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4efcaacd-e7b9-49df-a19f-11bc6413cf94")
+	)
+	(wire
+		(pts
 			(xy 78.74 144.78) (xy 81.28 144.78)
 		)
 		(stroke
@@ -6960,16 +6976,6 @@
 			(type default)
 		)
 		(uuid "5301a892-32be-4f3d-bb4d-a31ef626262f")
-	)
-	(wire
-		(pts
-			(xy 104.14 231.14) (xy 104.14 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "543c7d74-8bf4-44dc-aeec-1ffed20889ba")
 	)
 	(wire
 		(pts
@@ -7423,7 +7429,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 127) (xy 293.37 127)
+			(xy 267.97 127) (xy 271.78 127)
 		)
 		(stroke
 			(width 0)
@@ -7630,6 +7636,16 @@
 			(type default)
 		)
 		(uuid "9e97ddf4-d9fe-43fe-8515-1f4928fb5040")
+	)
+	(wire
+		(pts
+			(xy 104.14 231.14) (xy 104.14 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eaa1c43-e09d-4d8c-bbb3-c208fb9dd6e7")
 	)
 	(wire
 		(pts
@@ -7973,6 +7989,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 127) (xy 293.37 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c334d520-c34c-4993-b0a7-140f1e90a262")
+	)
+	(wire
+		(pts
 			(xy 231.14 147.32) (xy 248.92 147.32)
 		)
 		(stroke
@@ -7993,7 +8019,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 127) (xy 269.24 127)
+			(xy 257.81 127) (xy 262.89 127)
 		)
 		(stroke
 			(width 0)
@@ -8150,6 +8176,16 @@
 			(type default)
 		)
 		(uuid "d1617b97-b033-4a0a-a8fb-2972e0e6002a")
+	)
+	(wire
+		(pts
+			(xy 271.78 127) (xy 271.78 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d346d475-8249-4a29-9177-44b24fe52057")
 	)
 	(wire
 		(pts
@@ -11375,16 +11411,6 @@
 		)
 		(uuid "74ad597d-5433-4da2-9bc8-22269c9e6ff3")
 	)
-	(label "PCIE_{MUX_CH}"
-		(at 62.23 242.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "75905dd0-21eb-49a5-87cf-5e4e50d04a41")
-	)
 	(label "SEL_3V3"
 		(at 219.71 127 0)
 		(effects
@@ -11404,16 +11430,6 @@
 			(justify left bottom)
 		)
 		(uuid "8d1fb126-d5c0-4cdd-98c0-5f22f792bc5f")
-	)
-	(label "PCIE_{MUX_CH}"
-		(at 280.67 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e7dc3a2-7420-4b95-b8f0-f9a53f847f5b")
 	)
 	(label "Mux_PCIe_{x2_1}.RX0_P"
 		(at 334.01 106.68 180)
@@ -11634,6 +11650,78 @@
 			(justify left bottom)
 		)
 		(uuid "fba38600-a54b-4bab-a6fd-644bdbcdf961")
+	)
+	(global_label "~{PCIE_{MUX_CH}}"
+		(shape input)
+		(at 91.44 241.3 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "187a92e4-b187-452e-8276-b27b24cbcced")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.44 254.6774 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PCIE_{MUX_CH}"
+		(shape input)
+		(at 271.78 130.81 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "225b5868-6a26-445e-99e5-fd3c4c0c1a26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 271.78 144.1874 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "PCIE_{MUX_CH}"
+		(shape input)
+		(at 62.23 242.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "78f054b4-f719-4b30-b26e-4ab6834351de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.8526 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(hierarchical_label "PCIe_{x2}{PCIe}"
 		(shape bidirectional)
@@ -14204,6 +14292,159 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608CGCK")
+		(at 104.14 224.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c0241ff-14bb-4990-a666-9a6452b97e3f")
+		(property "Reference" "D9"
+			(at 106.68 220.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED_G_0603_KP-1608CGCK"
+			(at 111.76 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
+			(at 114.3 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch//000/00/00/KP-1608CGCK(Ver.23B).pdf"
+			(at 116.84 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "LED, Green, SMD, 0603, 20 mA, 2.1 V, 570 nm"
+			(at 129.54 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "KP-1608CGCK"
+			(at 119.38 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Kingbright"
+			(at 121.92 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Color" "Green"
+			(at 106.68 223.5199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 124.46 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 127 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "309feea7-fdaf-43e5-8b13-2169b0c141f5")
+		)
+		(pin "1"
+			(uuid "37c259dd-3a07-459a-b3de-860f2cdd08a2")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroInterfaceAnalogSwitchesMultiplexersDemultiplexers:74LVC1G157-Q100H_SOT457")
 		(at 240.03 124.46 0)
 		(unit 1)
@@ -16647,159 +16888,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LG_L29K-G2J1-24-Z")
-		(at 104.14 224.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a9a5851-ed01-4dd5-b686-1d9e3fccedcd")
-		(property "Reference" "D9"
-			(at 106.68 220.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED_G_0603_LG_L29K-G2J1-24-Z"
-			(at 111.76 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 114.3 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://look.ams-osram.com/m/19ee86b3ae0ee95b/original/LG-L29K.pdf"
-			(at 116.84 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "LED, Green, SMD, 0603, 20 mA, 1.7 V, 570 nm"
-			(at 129.54 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "LG L29K-G2J1-24-Z"
-			(at 119.38 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "OSRAM"
-			(at 121.92 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Color" "Green"
-			(at 106.68 223.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 124.46 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 127 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "2"
-			(uuid "790535c6-4163-444e-a397-03eddaa8359e")
-		)
-		(pin "1"
-			(uuid "af4fa7cd-2b54-424b-87be-e521d539f2c3")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroResistors0402:R_10k_0402")
 		(at 245.11 228.6 270)
 		(mirror x)
@@ -17764,7 +17852,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 269.24 127 0)
+		(at 262.89 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17774,7 +17862,7 @@
 		(dnp no)
 		(uuid "8a201e23-f7b2-4a9e-a30c-42885fd35d48")
 		(property "Reference" "R95"
-			(at 271.78 124.968 0)
+			(at 265.43 124.968 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17785,7 +17873,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at 289.56 139.7 0)
+			(at 283.21 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17798,7 +17886,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 289.56 142.24 0)
+			(at 283.21 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17811,7 +17899,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 289.56 144.78 0)
+			(at 283.21 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17824,7 +17912,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 289.56 160.02 0)
+			(at 283.21 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17836,7 +17924,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 289.56 147.32 0)
+			(at 283.21 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17849,7 +17937,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 289.56 149.86 0)
+			(at 283.21 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17862,7 +17950,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 289.56 152.4 0)
+			(at 283.21 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17875,7 +17963,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 289.56 154.94 0)
+			(at 283.21 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17888,7 +17976,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 271.78 129.032 0)
+			(at 265.43 129.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17899,7 +17987,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 289.56 137.16 0)
+			(at 283.21 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17911,7 +17999,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 289.56 157.48 0)
+			(at 283.21 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19175,159 +19263,6 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
 					(reference "R110")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LG_L29K-G2J1-24-Z")
-		(at 81.28 224.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af918373-4bce-4578-b83b-9694f32ac773")
-		(property "Reference" "D8"
-			(at 83.82 220.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED_G_0603_LG_L29K-G2J1-24-Z"
-			(at 88.9 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 91.44 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://look.ams-osram.com/m/19ee86b3ae0ee95b/original/LG-L29K.pdf"
-			(at 93.98 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "LED, Green, SMD, 0603, 20 mA, 1.7 V, 570 nm"
-			(at 106.68 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "LG L29K-G2J1-24-Z"
-			(at 96.52 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "OSRAM"
-			(at 99.06 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Color" "Green"
-			(at 83.82 223.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 101.6 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 104.14 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "2"
-			(uuid "46aca54d-eda0-46ff-8873-a2a3a598857d")
-		)
-		(pin "1"
-			(uuid "03fd9d57-6931-4ad8-b6ac-9989c824c750")
-		)
-		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
-				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
-					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -21911,6 +21846,159 @@
 			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
 					(reference "R103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608CGCK")
+		(at 81.28 224.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dff4d7dd-675b-4d75-9c28-c011ba4aefab")
+		(property "Reference" "D8"
+			(at 83.82 220.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED_G_0603_KP-1608CGCK"
+			(at 88.9 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
+			(at 91.44 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch//000/00/00/KP-1608CGCK(Ver.23B).pdf"
+			(at 93.98 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "LED, Green, SMD, 0603, 20 mA, 2.1 V, 570 nm"
+			(at 106.68 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "KP-1608CGCK"
+			(at 96.52 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Kingbright"
+			(at 99.06 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Color" "Green"
+			(at 83.82 223.5199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 101.6 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 104.14 201.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "309feea7-fdaf-43e5-8b13-2169b0c141f6")
+		)
+		(pin "1"
+			(uuid "37c259dd-3a07-459a-b3de-860f2cdd08a3")
+		)
+		(instances
+			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/893b7393-1fb2-4231-9ebd-b3f97e74b7e4"
+					(reference "D8")
 					(unit 1)
 				)
 			)

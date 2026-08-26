@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.3,
-          "width": 0.3
+          "drill": 0.2,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,13 +60,13 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.25,
+          "min_clearance": 0.1,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.1,
           "pad_connection": 2,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_gap": 0.1,
+          "thermal_relief_spoke_width": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -76,7 +76,56 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|221175000|138360000|35448752-843b-4170-ac9a-41dda77a91ce|4f5015b8-7a9c-41d9-84be-3a9da1a13e75",
+          ""
+        ],
+        [
+          "hole_clearance|231175000|138360000|0bc86938-1369-47b8-8fb7-ae11c9ada32c|9868c198-c384-4b37-99d8-87563144f87f",
+          ""
+        ],
+        [
+          "silk_overlap|198480000|85890406|7daa0f1a-0174-4256-8448-b678006c9376|d71d548b-16d6-49d8-941e-4f799f6049fa",
+          ""
+        ],
+        [
+          "silk_overlap|210040000|103605406|423442e6-bf2c-4569-aa38-afb6e7178254|8da1c186-e76d-4380-8258-1a3d1d14d3f9",
+          ""
+        ],
+        [
+          "silk_overlap|210775000|97180406|8a9e81dd-1cce-4592-82df-69a6251c763a|cc3c94b6-b9b1-43c7-b45c-fe96a2c91213",
+          ""
+        ],
+        [
+          "silk_overlap|215622824|86480000|690178f9-e5c2-49e2-9764-dba40f7b93f4|a9d1aee4-0b64-453c-9b57-7a3258893679",
+          ""
+        ],
+        [
+          "silk_overlap|215850000|115510995|4f31381c-2685-4ec4-a7df-841d7b2fdbb2|de259e47-a9d9-441b-af12-d43c1bcaebc9",
+          ""
+        ],
+        [
+          "silk_overlap|216661507|115550000|4f31381c-2685-4ec4-a7df-841d7b2fdbb2|cba95926-4df3-4801-945c-d6220f4eb7f2",
+          ""
+        ],
+        [
+          "silk_overlap|222750000|105760995|9e3e8d94-db3e-4415-838c-1730d7f77092|b26ea03c-0a83-45b3-89c9-4b9fd4def1b3",
+          ""
+        ],
+        [
+          "silk_overlap|223561507|105800000|62bdbecb-684d-4dc4-931c-8d232ebb2d18|9e3e8d94-db3e-4415-838c-1730d7f77092",
+          ""
+        ],
+        [
+          "silk_overlap|234849200|142290518|9658edfc-d367-4356-bdb5-9056c7b65f06|e2bfebd8-d18a-4d7d-b5f8-1b1528f52d71",
+          ""
+        ],
+        [
+          "silk_overlap|246268934|139601943|34be24fe-d344-4f5d-9b3c-d1fc14a5a889|cdfa717b-4507-43b3-b9dd-b4f2d7de242b",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -212,6 +261,8 @@
       "track_widths": [
         0.0,
         0.125,
+        0.15,
+        0.17,
         0.2,
         0.3,
         0.5,
@@ -544,28 +595,24 @@
       },
       {
         "bus_width": 12,
-        "diff_pair_gap": 0.125,
-        "diff_pair_width": 0.125,
         "line_style": 0,
         "name": "100Ohm-diff_PCIe3.0_CLK",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(239, 170, 255)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.125,
         "tuning_profile": "",
         "wire_width": 6
       },
       {
         "bus_width": 12,
-        "diff_pair_gap": 0.15,
-        "diff_pair_width": 0.17,
         "line_style": 0,
         "name": "85Ohm-diff_PCIe3.0",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 170, 221)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.17,
-        "tuning_profile": "",
+        "tuning_profile": "85Ohm-diff_PCIe3.0",
+        "via_diameter": 0.45,
+        "via_drill": 0.1,
         "wire_width": 6
       }
     ],
@@ -692,14 +739,122 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Color",
+          "name": "Color",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Current",
+          "name": "Current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Dielectric",
+          "name": "Dielectric",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "IMax",
+          "name": "IMax",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ISat",
+          "name": "ISat",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "License",
+          "name": "License",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Max. Curr.",
+          "name": "Max. Curr.",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Pitch",
+          "name": "Pitch",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Public",
+          "name": "Public",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Size",
+          "name": "Size",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Val",
+          "name": "Val",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Author",
+          "name": "Author",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "R",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Value"
     },
     "bus_aliases": {
       "I_{2}C": [
@@ -782,7 +937,7 @@
         "uuid": "9f8272ef-d62d-4578-9094-a2852fcd4bf4"
       }
     ],
-    "used_designators": "R1-144,R146-148,R173,R176-179,R218,R220-238,R240,R264,R311-312,R320-321,R323,R327,R355,R501-515,M1-4,M501-503,L1-4,L302,SW1,J1-8,J501-503,N1,A1-2,U1-15,U21-22,U26,U40,U302,D1-14,D17-18,D33,D306,D503-506,C1-96,C121-123,C125-131,C151,C154-155,C306,C309,C314,C317,C501-518,MP1-2,#FLG1-13,TP1-51,TP54,TP309,TP501-512,H1-12,H501-503,Q1-12,RT1,#PWR1-176,#PWR179-180,#PWR184-194,#PWR230-238,#PWR273,#PWR292-293,#PWR317,#PWR319-320,#PWR322-323,#PWR325-326,#PWR331,#PWR333-350,#PWR419-422,#PWR505-517,SP1,SP8-9",
+    "used_designators": "H1-12,H501-503,RT1,Q1-12,U1-15,U21-22,U26,U40,U302,D1-18,D33,D306,D503-506,#PWR1-182,#PWR184-194,#PWR230-238,#PWR273,#PWR292-293,#PWR317,#PWR319-320,#PWR322-323,#PWR325-326,#PWR331,#PWR333-350,#PWR419-422,#PWR505-517,SP1,SP8-9,#FLG1-13,MP1-2,C1-96,C121-123,C125-131,C151,C154-155,C306,C309,C314,C317,C501-518,A1-2,L1-4,L302,M1-4,M501-503,R1-148,R173,R176-179,R218,R220-238,R240,R264,R311-312,R320-321,R323,R327,R355,R501-515,TP1-55,TP309,TP501-512,SW1,J1-8,J501-503,N1",
     "variants": []
   },
   "sheets": [
@@ -824,6 +979,41 @@
     "meta": {
       "version": 0
     },
-    "tuning_profiles_impedance_geometric": []
+    "tuning_profiles_impedance_geometric": [
+      {
+        "enable_time_domain_tuning": true,
+        "layer_entries": [
+          {
+            "bottom_reference_layer": "In1.Cu",
+            "delay": 5771100,
+            "diff_pair_gap": 120000,
+            "signal_layer": "F.Cu",
+            "top_reference_layer": "UNDEFINED",
+            "width": 175000
+          },
+          {
+            "bottom_reference_layer": "In4.Cu",
+            "delay": 6924500,
+            "diff_pair_gap": 150000,
+            "signal_layer": "In3.Cu",
+            "top_reference_layer": "In2.Cu",
+            "width": 150000
+          },
+          {
+            "bottom_reference_layer": "UNDEFINED",
+            "delay": 5647200,
+            "diff_pair_gap": 120000,
+            "signal_layer": "B.Cu",
+            "top_reference_layer": "In4.Cu",
+            "width": 175000
+          }
+        ],
+        "profile_name": "85Ohm-diff_PCIe3.0",
+        "target_impedance": 85.0,
+        "type": 1,
+        "via_overrides": [],
+        "via_prop_delay": 6000000
+      }
+    ]
   }
 }

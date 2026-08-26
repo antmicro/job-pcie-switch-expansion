@@ -1,6 +1,7 @@
-# PCIe Switch Expanstion Board for Antmicro Baseboard for Jetson Orin
+# PCIe Switch Expansion Board for Antmicro Baseboard for Jetson Orin
 
 Copyright (c) 2026 [Antmicro](https://www.antmicro.com)
+![](img/pcie-switch-render.png)
 
 ## Overview
 
