@@ -17,6 +17,8 @@ The design files were prepared in KiCad 10.x.
 * Support for 2280 and 2242 disk sizes
 * 1x M.2 key M PCIe x2 slot 
 * 1x M.2 key M or 1x OCuLink Connector PCIe x2 (multiplexed lane)
+* 100 x 60 mm (3.94 x 2.36 inch) PCB outline
+
 
 ## Project structure 
 
