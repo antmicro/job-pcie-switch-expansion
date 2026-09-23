@@ -5,7 +5,7 @@
 	(uuid "9f43281f-8f95-494f-a077-5fb0a87d5c8f")
 	(paper "A3")
 	(title_block
-		(title "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw")
+		(title "jetson-orin-baseboard-pcie-switch-expansion")
 		(date "2026-08-26")
 		(rev "1.0.0")
 		(company "Antmicro")
@@ -18730,7 +18730,7 @@
 			(uuid "ffe25622-ed3e-4895-8798-0360843f7bbd")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C39")
 					(unit 1)
@@ -18841,7 +18841,7 @@
 			(uuid "e46db22c-40e2-49dc-ba33-dd8597394d50")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR080")
 					(unit 1)
@@ -19004,7 +19004,7 @@
 			(uuid "31c74611-c1e4-4a63-b606-8a0b40c63978")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R139")
 					(unit 1)
@@ -19115,7 +19115,7 @@
 			(uuid "8baf0597-9c66-498c-9ebb-73080eb0c0c1")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR065")
 					(unit 1)
@@ -19279,7 +19279,7 @@
 			(uuid "42bbe451-a161-4f04-8430-00b2e05ff8f5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R45")
 					(unit 1)
@@ -19357,7 +19357,7 @@
 			(uuid "0ea8edcc-1598-4f93-89cc-91c7ec54d107")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR081")
 					(unit 1)
@@ -19468,7 +19468,7 @@
 			(uuid "ed687498-c92e-47ab-8a80-fab63b0a735c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0178")
 					(unit 1)
@@ -19603,7 +19603,7 @@
 			(uuid "d811a02f-b941-425a-bd29-d03953d38680")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP32")
 					(unit 1)
@@ -19778,7 +19778,7 @@
 			(uuid "f0c8fb1a-fd05-4918-90f5-dc1ef0cf2cc2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C27")
 					(unit 1)
@@ -19953,7 +19953,7 @@
 			(uuid "13856faa-fb9b-46d0-9ea6-15c6aa85546f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C42")
 					(unit 1)
@@ -20483,7 +20483,7 @@
 			(uuid "e47b2ff3-dc10-489c-8bea-9e0ad58d5d53")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U4")
 					(unit 1)
@@ -20594,7 +20594,7 @@
 			(uuid "d2d8359b-a02b-40af-9d5e-f1954be31626")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0172")
 					(unit 1)
@@ -20744,7 +20744,7 @@
 			(uuid "2975eb8b-3d75-4e25-96b3-7ee00c32b1d2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "J7")
 					(unit 1)
@@ -20887,7 +20887,7 @@
 			(uuid "7b1276ff-e725-4b69-a173-c6e050c5ee5a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "Q4")
 					(unit 1)
@@ -21050,7 +21050,7 @@
 			(uuid "526dbcba-6eff-45fa-a16a-c419259ba965")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R69")
 					(unit 1)
@@ -21215,7 +21215,7 @@
 			(uuid "0b131127-442d-45c5-a04d-60dcf80331ac")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R76")
 					(unit 1)
@@ -21293,7 +21293,7 @@
 			(uuid "2d56afda-b84c-44db-a277-8b73838e1357")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR059")
 					(unit 1)
@@ -21470,7 +21470,7 @@
 			(uuid "42b01c7b-dbfd-494c-8f77-0e1a995a9ad9")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C37")
 					(unit 1)
@@ -21604,7 +21604,7 @@
 			(uuid "1825bcf8-44f5-4b7a-9c55-bd83d3281ae5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP29")
 					(unit 1)
@@ -21781,7 +21781,7 @@
 			(uuid "828d9465-fa5c-43b4-833f-97d4b4c6aa52")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C51")
 					(unit 1)
@@ -21958,7 +21958,7 @@
 			(uuid "82087d77-514c-4f91-8c44-c60407af3adf")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C30")
 					(unit 1)
@@ -22135,7 +22135,7 @@
 			(uuid "8afeaea2-a314-49f5-83ed-6b78de850a50")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C26")
 					(unit 1)
@@ -22665,7 +22665,7 @@
 			(uuid "e47b2ff3-dc10-489c-8bea-9e0ad58d5d54")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U4")
 					(unit 3)
@@ -23194,7 +23194,7 @@
 			(uuid "e47b2ff3-dc10-489c-8bea-9e0ad58d5d55")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U4")
 					(unit 4)
@@ -23347,7 +23347,7 @@
 			(uuid "e2259243-6b01-4196-b446-1f8266b4add0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D3")
 					(unit 1)
@@ -23512,7 +23512,7 @@
 			(uuid "4314a7fe-8069-4676-b583-2efcea3926ab")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R38")
 					(unit 1)
@@ -23623,7 +23623,7 @@
 			(uuid "0768cabc-6f41-4bf3-849b-c20638e5ca69")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR072")
 					(unit 1)
@@ -23757,7 +23757,7 @@
 			(uuid "d4552253-37ca-41e9-bcc1-923b957cc2c7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP40")
 					(unit 1)
@@ -23868,7 +23868,7 @@
 			(uuid "0f854fd5-f93c-40c3-8f49-e648ec51f43e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR063")
 					(unit 1)
@@ -23980,7 +23980,7 @@
 			(uuid "d47cf864-7e29-4340-be62-3fee2a3445ac")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR078")
 					(unit 1)
@@ -24157,7 +24157,7 @@
 			(uuid "32b61403-a1d8-4d29-bf48-2b35abb79615")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C58")
 					(unit 1)
@@ -24292,7 +24292,7 @@
 			(uuid "83bf0f34-329d-45dc-aa95-38d15e692d35")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP37")
 					(unit 1)
@@ -24467,7 +24467,7 @@
 			(uuid "bdf46a8e-8828-4edb-a72b-e3ee56b7a30e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C25")
 					(unit 1)
@@ -24642,7 +24642,7 @@
 			(uuid "140616ce-a538-4841-bd58-3a13baf41415")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C32")
 					(unit 1)
@@ -24753,7 +24753,7 @@
 			(uuid "659821df-33e5-4980-9235-16af1cb79d0d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR051")
 					(unit 1)
@@ -24896,7 +24896,7 @@
 			(uuid "dc6a8812-483a-44a7-aa2f-44cc7cf66a5c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "Q1")
 					(unit 1)
@@ -25007,7 +25007,7 @@
 			(uuid "adad0d5f-db05-4f47-8eef-c8e8be7a5100")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR052")
 					(unit 1)
@@ -25184,7 +25184,7 @@
 			(uuid "0798344d-fe87-4583-85c0-53640092484e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C59")
 					(unit 1)
@@ -25350,7 +25350,7 @@
 			(uuid "8225902a-7130-4618-b43f-5c43856c17c7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R62")
 					(unit 1)
@@ -25462,7 +25462,7 @@
 			(uuid "fe80a706-8e8d-4378-8468-454ab0ae2ebe")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0176")
 					(unit 1)
@@ -25573,7 +25573,7 @@
 			(uuid "335e666a-46d7-4add-bb83-0de7df443048")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR092")
 					(unit 1)
@@ -25684,7 +25684,7 @@
 			(uuid "95aafc9c-6a4f-442a-a8c3-ab9ad776f6a0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0100")
 					(unit 1)
@@ -25861,7 +25861,7 @@
 			(uuid "0e6d4e6c-b959-4c77-97c1-ddc2f646f7af")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C52")
 					(unit 1)
@@ -26036,7 +26036,7 @@
 			(uuid "41987df5-7e38-4134-924e-e626f5dfa596")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C48")
 					(unit 1)
@@ -26213,7 +26213,7 @@
 			(uuid "8a0d483c-0673-4ad9-bbe0-90b74d56b562")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C33")
 					(unit 1)
@@ -26324,7 +26324,7 @@
 			(uuid "88599232-85b4-47b2-a9e7-9577a0eb636f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR067")
 					(unit 1)
@@ -26435,7 +26435,7 @@
 			(uuid "1d3bcbd9-3ea3-4770-abb6-679b134e45eb")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0173")
 					(unit 1)
@@ -26569,7 +26569,7 @@
 			(uuid "1008bf23-d6cc-402a-84a0-174540ac78c0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP45")
 					(unit 1)
@@ -26732,7 +26732,7 @@
 			(uuid "e5467659-6bef-465c-9335-0c976d0dad0a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R140")
 					(unit 1)
@@ -26866,7 +26866,7 @@
 			(uuid "819df59c-370c-43e2-ad97-6a474e42435e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP39")
 					(unit 1)
@@ -27045,7 +27045,7 @@
 			(uuid "d52b3362-c437-44f9-9a83-96585b6d012f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R73")
 					(unit 1)
@@ -27188,7 +27188,7 @@
 			(uuid "940566b8-651f-4a38-82fd-5167fa8e47b0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "Q5")
 					(unit 1)
@@ -27367,7 +27367,7 @@
 			(uuid "a67ead92-5a54-467f-8b89-987001eb4322")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R26")
 					(unit 1)
@@ -27479,7 +27479,7 @@
 			(uuid "00a12f68-a71d-4a0a-bdf7-9f1b47a2dbf9")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR077")
 					(unit 1)
@@ -27656,7 +27656,7 @@
 			(uuid "07e2bd95-07d7-425e-9bbe-fa16256e3c2c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C50")
 					(unit 1)
@@ -27734,7 +27734,7 @@
 			(uuid "1239634b-88cc-4340-a7d2-f986ff8d9081")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#FLG09")
 					(unit 1)
@@ -27868,7 +27868,7 @@
 			(uuid "9e080dc8-82a5-466b-94b2-1a32307c92d4")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP19")
 					(unit 1)
@@ -28041,7 +28041,7 @@
 			(alternate "SPI_MISO")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "J6")
 					(unit 1)
@@ -28175,7 +28175,7 @@
 			(uuid "256370db-6d2a-4e38-9912-5c851b183b38")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP28")
 					(unit 1)
@@ -28351,7 +28351,7 @@
 			(uuid "a11c396b-cd38-41d7-9986-87d8fa43bfb1")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R35")
 					(unit 1)
@@ -28527,7 +28527,7 @@
 			(uuid "956978b7-a700-4b09-9b69-ddc502ae1903")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R41")
 					(unit 1)
@@ -28638,7 +28638,7 @@
 			(uuid "031679fe-4907-4016-93b3-ad59691eced1")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR095")
 					(unit 1)
@@ -28801,7 +28801,7 @@
 			(uuid "796022be-161f-4dde-aa27-79c990abbfa0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R57")
 					(unit 1)
@@ -28936,7 +28936,7 @@
 			(uuid "b6deb17f-39a6-489b-af7e-d5c81956fdad")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP23")
 					(unit 1)
@@ -29091,7 +29091,7 @@
 			(uuid "711fadd3-b47b-40aa-a653-f5b337da4235")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U6")
 					(unit 1)
@@ -29268,7 +29268,7 @@
 			(uuid "58c63d77-4d5a-4be7-a6c9-15e86c4adedd")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C36")
 					(unit 1)
@@ -29443,7 +29443,7 @@
 			(uuid "241ac263-24ca-4d9e-a94b-a00ea21a26e8")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C29")
 					(unit 1)
@@ -29606,7 +29606,7 @@
 			(uuid "ee6ce6d5-6ee8-4216-8027-a8e18ebd03da")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R83")
 					(unit 1)
@@ -29717,7 +29717,7 @@
 			(uuid "b42297d7-a82c-4705-80fd-fc969f993a5c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR061")
 					(unit 1)
@@ -29882,7 +29882,7 @@
 			(uuid "5e96e3b2-47c9-4c80-910c-3d1ef397bdcb")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R61")
 					(unit 1)
@@ -29993,7 +29993,7 @@
 			(uuid "644d22ea-9bb3-4e2a-b9e7-132ab671186e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR054")
 					(unit 1)
@@ -30158,7 +30158,7 @@
 			(uuid "a0db1171-95a0-4701-b053-3938b088c9a0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R74")
 					(unit 1)
@@ -30269,7 +30269,7 @@
 			(uuid "efd890ba-9bb7-449b-91f9-6f431b158272")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR055")
 					(unit 1)
@@ -30445,7 +30445,7 @@
 			(uuid "16230d2a-1cd2-429e-b2ad-8833ea2afa8a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R50")
 					(unit 1)
@@ -30621,7 +30621,7 @@
 			(uuid "2ebca01a-fede-4d1f-b7e2-b8e961e3623d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R40")
 					(unit 1)
@@ -30797,7 +30797,7 @@
 			(uuid "0c1fe2a2-4929-44be-9fe4-d703ada2d7f6")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R52")
 					(unit 1)
@@ -30932,7 +30932,7 @@
 			(uuid "a61a8295-9910-4132-829b-fb4ace37067e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP30")
 					(unit 1)
@@ -31107,7 +31107,7 @@
 			(uuid "40f08bf5-2f17-4b44-8b40-012c0f164ffe")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C28")
 					(unit 1)
@@ -31241,7 +31241,7 @@
 			(uuid "b3ea793f-3d2b-4d4f-b40e-908cdb3391e9")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP20")
 					(unit 1)
@@ -31352,7 +31352,7 @@
 			(uuid "1909c343-f77a-477c-bf88-16d4123a814c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR064")
 					(unit 1)
@@ -31517,7 +31517,7 @@
 			(uuid "575c2f06-dc31-4fe2-a418-a462c689f1a7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R39")
 					(unit 1)
@@ -31628,7 +31628,7 @@
 			(uuid "fce36337-b01a-44d7-b1ef-c52a355b2608")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR069")
 					(unit 1)
@@ -31763,7 +31763,7 @@
 			(uuid "5388ffc3-1b3f-4ab8-be85-ff6ff33cb111")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP38")
 					(unit 1)
@@ -31874,7 +31874,7 @@
 			(uuid "04b254c5-5651-4f51-8c63-aa2c39a3e5c7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0174")
 					(unit 1)
@@ -31986,7 +31986,7 @@
 			(uuid "68f42f90-55a8-4285-9fc0-ab2f67336780")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0175")
 					(unit 1)
@@ -32163,7 +32163,7 @@
 			(uuid "195acfa3-5a58-4627-9643-41de5ed82b40")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C91")
 					(unit 1)
@@ -32274,7 +32274,7 @@
 			(uuid "72b21751-9b27-4d6a-8300-d7d252378eba")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR096")
 					(unit 1)
@@ -32385,7 +32385,7 @@
 			(uuid "8d7f4422-bfea-442c-97b0-4e1c2a30219c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR068")
 					(unit 1)
@@ -32496,7 +32496,7 @@
 			(uuid "5733f654-e67e-4409-bb65-4a1d90f46506")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR089")
 					(unit 1)
@@ -32607,7 +32607,7 @@
 			(uuid "ccb11e19-aef1-4acd-9cf6-71c90558cea8")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0101")
 					(unit 1)
@@ -32718,7 +32718,7 @@
 			(uuid "6bc74336-d52f-4730-82d6-6d295ef97265")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR091")
 					(unit 1)
@@ -32895,7 +32895,7 @@
 			(uuid "bd442635-10fa-43ce-8ed3-906856773b02")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C92")
 					(unit 1)
@@ -33072,7 +33072,7 @@
 			(uuid "da379afc-5ae3-494f-9282-ba47373900dc")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C54")
 					(unit 1)
@@ -33206,7 +33206,7 @@
 			(uuid "d1ed8ba5-c963-41a6-8683-25e35b71c429")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP24")
 					(unit 1)
@@ -33383,7 +33383,7 @@
 			(uuid "d22962bf-fcf7-40ac-99bd-c5ad25de6ee3")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R33")
 					(unit 1)
@@ -33546,7 +33546,7 @@
 			(uuid "11a4136c-6346-4e6c-98c3-37fb05fa1701")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R75")
 					(unit 1)
@@ -33657,7 +33657,7 @@
 			(uuid "84c1343b-2b01-4679-9c9f-2313db8e605c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR056")
 					(unit 1)
@@ -33791,7 +33791,7 @@
 			(uuid "fb56fff5-e50d-4599-8d64-e9348bdd9d7e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP35")
 					(unit 1)
@@ -33925,7 +33925,7 @@
 			(uuid "93d1e33f-4760-4c84-8fe7-e7720939c99a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP44")
 					(unit 1)
@@ -34102,7 +34102,7 @@
 			(uuid "f6151e1e-1e1a-4b21-ad8e-3d9d559c7865")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R36")
 					(unit 1)
@@ -34267,7 +34267,7 @@
 			(uuid "b38fca13-1e39-41af-bb23-1ce0dbfe48a1")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D14")
 					(unit 1)
@@ -34378,7 +34378,7 @@
 			(uuid "19f0e5f6-2020-4b7f-9b06-6435b198b772")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR085")
 					(unit 1)
@@ -34542,7 +34542,7 @@
 			(uuid "1d5931fe-56b9-4104-84a8-c9f2b519452a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R78")
 					(unit 1)
@@ -35071,7 +35071,7 @@
 			(uuid "e47b2ff3-dc10-489c-8bea-9e0ad58d5d56")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U4")
 					(unit 5)
@@ -35248,7 +35248,7 @@
 			(uuid "c160d80a-e2c3-4cbb-b422-69bd03468d09")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C24")
 					(unit 1)
@@ -35383,7 +35383,7 @@
 			(uuid "0f4ad906-ac2c-4cf9-ad47-e88dec999ce6")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP36")
 					(unit 1)
@@ -35559,7 +35559,7 @@
 			(uuid "796b6e16-4462-494e-a95f-559c2478d63e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R32")
 					(unit 1)
@@ -35712,7 +35712,7 @@
 			(uuid "37c259dd-3a07-459a-b3de-860f2cdd08a2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D5")
 					(unit 1)
@@ -35878,7 +35878,7 @@
 			(uuid "6334442d-d6bb-487c-b95f-22f2f0796faa")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R56")
 					(unit 1)
@@ -36041,7 +36041,7 @@
 			(uuid "b1cea522-3094-428e-b87a-a7b20780ad9f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R66")
 					(unit 1)
@@ -36152,7 +36152,7 @@
 			(uuid "d0546824-070e-49bd-80f7-bbe98313a802")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR093")
 					(unit 1)
@@ -36328,7 +36328,7 @@
 			(uuid "4cb6075e-c9b0-4591-b46f-d4e010ad02f6")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R47")
 					(unit 1)
@@ -36505,7 +36505,7 @@
 			(uuid "2b386f2c-813c-463c-8870-63344e6cfc49")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C53")
 					(unit 1)
@@ -36616,7 +36616,7 @@
 			(uuid "198212ae-6d42-4463-83e5-2cf9c3c1d6fc")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR053")
 					(unit 1)
@@ -36694,7 +36694,7 @@
 			(uuid "8f439f7a-e368-4049-9a7c-dd89ac230d1a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR079")
 					(unit 1)
@@ -36805,7 +36805,7 @@
 			(uuid "913dd13d-bb30-4dd9-a3e6-5ca5151987a8")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR058")
 					(unit 1)
@@ -36916,7 +36916,7 @@
 			(uuid "226f1eff-6c11-4304-918b-6f7ca196295c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0179")
 					(unit 1)
@@ -37059,7 +37059,7 @@
 			(uuid "b7a836ba-b462-4471-b2c6-643cc5d0c2bf")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "Q2")
 					(unit 1)
@@ -37236,7 +37236,7 @@
 			(uuid "5222b796-0e8a-488a-bde5-8607e298e579")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C55")
 					(unit 1)
@@ -37401,7 +37401,7 @@
 			(uuid "7a8421e4-baba-4a76-8365-731aba649ca2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R59")
 					(unit 1)
@@ -37512,7 +37512,7 @@
 			(uuid "81cdf58c-0996-4d35-9f2e-62b148c935e5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR050")
 					(unit 1)
@@ -37685,7 +37685,7 @@
 			(alternate "JTAG_TDO")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "J5")
 					(unit 1)
@@ -37796,7 +37796,7 @@
 			(uuid "09b35ba4-b523-4a61-b41b-17f8ed1f7793")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR094")
 					(unit 1)
@@ -37931,7 +37931,7 @@
 			(uuid "eca77ac2-2db0-4912-a49c-fddfcdbb5d1b")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP22")
 					(unit 1)
@@ -38042,7 +38042,7 @@
 			(uuid "c9f00945-344d-40ab-b31e-1d7a46e4e150")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR074")
 					(unit 1)
@@ -38153,7 +38153,7 @@
 			(uuid "09f98609-b83f-4cfa-aba7-fa00578beb2c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR099")
 					(unit 1)
@@ -38330,7 +38330,7 @@
 			(uuid "ca7c6098-df84-42c8-9d06-8cc58fee7ef5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R55")
 					(unit 1)
@@ -38441,7 +38441,7 @@
 			(uuid "9ffa4921-53d0-4160-b84e-2c3f90b450bf")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR083")
 					(unit 1)
@@ -38604,7 +38604,7 @@
 			(uuid "d93b2367-8bc7-405c-b112-0d9e0efff565")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R43")
 					(unit 1)
@@ -38781,7 +38781,7 @@
 			(uuid "dd40213c-f57e-49c7-93ad-a3005ce9ac00")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C40")
 					(unit 1)
@@ -38944,7 +38944,7 @@
 			(uuid "07bb167e-5ba9-4b1b-ab85-27898c5669c0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R143")
 					(unit 1)
@@ -39107,7 +39107,7 @@
 			(uuid "04c7dae4-c81e-4fa1-8a06-cc8bf33db0e9")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R64")
 					(unit 1)
@@ -39282,7 +39282,7 @@
 			(uuid "fe4c410a-0d99-4200-838a-cd4cd04d7146")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C47")
 					(unit 1)
@@ -39459,7 +39459,7 @@
 			(uuid "0c512779-155d-43d7-99e7-ca812ecb39c3")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C56")
 					(unit 1)
@@ -39570,7 +39570,7 @@
 			(uuid "c5b5f15f-3d82-4f16-928d-764ee131fa2c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR070")
 					(unit 1)
@@ -39735,7 +39735,7 @@
 			(uuid "5d5682e4-8bd7-42c8-a55f-7bffcf014a7b")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R42")
 					(unit 1)
@@ -39869,7 +39869,7 @@
 			(uuid "971c6674-33ac-4859-bd50-5a3f998108d6")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP41")
 					(unit 1)
@@ -40004,7 +40004,7 @@
 			(uuid "3f5d6a05-8263-454d-96f0-7b6104204904")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP31")
 					(unit 1)
@@ -40181,7 +40181,7 @@
 			(uuid "5e162a56-0ca6-42da-bc40-ba21d982a85d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C45")
 					(unit 1)
@@ -40358,7 +40358,7 @@
 			(uuid "4273fd6d-1e03-43c1-84a8-f2f24b04d5fa")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C57")
 					(unit 1)
@@ -40492,7 +40492,7 @@
 			(uuid "063161dc-8811-4153-a40d-5f426ea22286")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP42")
 					(unit 1)
@@ -40626,7 +40626,7 @@
 			(uuid "8048b490-b00f-4188-970a-b03a9c7c6627")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP25")
 					(unit 1)
@@ -40789,7 +40789,7 @@
 			(uuid "9829c0d3-42bc-406a-83ab-f929ea286056")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R60")
 					(unit 1)
@@ -40924,7 +40924,7 @@
 			(uuid "7e7bf18d-559d-44ed-9892-4c3c4763f71e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP34")
 					(unit 1)
@@ -41077,7 +41077,7 @@
 			(uuid "37c259dd-3a07-459a-b3de-860f2cdd08a3")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D7")
 					(unit 1)
@@ -41254,7 +41254,7 @@
 			(uuid "6ed7d971-029d-4e43-bb22-218605a40acc")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C93")
 					(unit 1)
@@ -41407,7 +41407,7 @@
 			(uuid "7e5f872f-ecc1-4dab-b7e7-fc93e6a4763e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D4")
 					(unit 1)
@@ -41584,7 +41584,7 @@
 			(uuid "8439ceef-8374-4188-8739-6d94ebd67c5a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C34")
 					(unit 1)
@@ -41749,7 +41749,7 @@
 			(uuid "856d9ad4-7dfb-482a-abfd-92b4f34d3a04")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R72")
 					(unit 1)
@@ -41913,7 +41913,7 @@
 			(uuid "b6271614-d131-4ee9-90f2-b6e592b41e71")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R82")
 					(unit 1)
@@ -42024,7 +42024,7 @@
 			(uuid "cf50fb5d-46df-4dae-8382-284f88ed6877")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR076")
 					(unit 1)
@@ -42187,7 +42187,7 @@
 			(uuid "66be7959-29c9-4ebd-8b6c-765f67972bf4")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R58")
 					(unit 1)
@@ -42298,7 +42298,7 @@
 			(uuid "26b7e0e9-2195-4d74-8b4a-6f6fee3be6ad")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR0177")
 					(unit 1)
@@ -42463,7 +42463,7 @@
 			(uuid "eddd139e-b90c-4663-849d-5973ea6fdcd8")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R37")
 					(unit 1)
@@ -42598,7 +42598,7 @@
 			(uuid "54f49834-3675-4344-b750-7b08290fb0a2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP33")
 					(unit 1)
@@ -42709,7 +42709,7 @@
 			(uuid "b3131aea-380e-48b6-8526-cb5b1766b45b")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR090")
 					(unit 1)
@@ -42888,7 +42888,7 @@
 			(uuid "61d85e10-76dd-49a2-9872-4509b83893f5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R146")
 					(unit 1)
@@ -43065,7 +43065,7 @@
 			(uuid "9033307c-c95f-4871-b513-bfaebd5e2469")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C38")
 					(unit 1)
@@ -43229,7 +43229,7 @@
 			(uuid "c2afb35b-5978-4d61-9b2d-5d956e628ec2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R77")
 					(unit 1)
@@ -43386,7 +43386,7 @@
 			(uuid "6eda215a-2a30-4517-9649-2a31eac1988c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U5")
 					(unit 1)
@@ -43497,7 +43497,7 @@
 			(uuid "f64d3527-e59d-4b31-b181-8f2bb61df9e7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR082")
 					(unit 1)
@@ -43608,7 +43608,7 @@
 			(uuid "da5b6eca-1acc-40c8-97ac-244d479c1c22")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR088")
 					(unit 1)
@@ -43719,7 +43719,7 @@
 			(uuid "ea0fa632-561c-4f67-9022-3901e48578ae")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR098")
 					(unit 1)
@@ -43830,7 +43830,7 @@
 			(uuid "c08b8f44-ddba-4a3d-9be5-c708bfa5a94e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR087")
 					(unit 1)
@@ -44006,7 +44006,7 @@
 			(uuid "e91de87c-e94f-4420-a977-16547644d9da")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R46")
 					(unit 1)
@@ -44169,7 +44169,7 @@
 			(uuid "b6c18e76-6ef1-4d27-b056-856ef2fb2bd7")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R142")
 					(unit 1)
@@ -44346,7 +44346,7 @@
 			(uuid "48ccdb1e-7205-4f7e-84d3-1ff48c6aefaa")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C35")
 					(unit 1)
@@ -44480,7 +44480,7 @@
 			(uuid "8048b490-b00f-4188-970a-b03a9c7c6628")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP26")
 					(unit 1)
@@ -44591,7 +44591,7 @@
 			(uuid "e1e8ab6c-85aa-43f2-ae99-8b15d7332fb0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR057")
 					(unit 1)
@@ -44770,7 +44770,7 @@
 			(uuid "027b6956-e3af-40ae-9ba9-ea31db152e1f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R80")
 					(unit 1)
@@ -44935,7 +44935,7 @@
 			(uuid "bcad7ae8-b7a0-4872-8f93-c02fdd2cf937")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R71")
 					(unit 1)
@@ -45101,7 +45101,7 @@
 			(uuid "5962997f-83b6-467a-b083-6b06ecef84d5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R48")
 					(unit 1)
@@ -45212,7 +45212,7 @@
 			(uuid "13ffa90d-9b34-4801-8a4e-3c3f79fa156d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR075")
 					(unit 1)
@@ -45323,7 +45323,7 @@
 			(uuid "27c9a98f-f08c-4bb3-b9b0-f72a2f12d171")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR066")
 					(unit 1)
@@ -45499,7 +45499,7 @@
 			(uuid "6adef4f4-d07e-4cf6-97a6-9eeff113079b")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R53")
 					(unit 1)
@@ -45610,7 +45610,7 @@
 			(uuid "961ebf63-5206-40e0-b3fd-47078f49cf36")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR084")
 					(unit 1)
@@ -45743,7 +45743,7 @@
 			(uuid "08b1179c-db16-413a-8c1a-22763bd9001f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP21")
 					(unit 1)
@@ -45918,7 +45918,7 @@
 			(uuid "a9d9fc38-c1d0-44ef-9e95-b8b3e1313a24")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C49")
 					(unit 1)
@@ -46081,7 +46081,7 @@
 			(uuid "6ca802a2-3a98-4e26-bbeb-7d7bbae34111")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R70")
 					(unit 1)
@@ -46192,7 +46192,7 @@
 			(uuid "f172ff9e-ee1a-445a-b3c5-35328d7afd91")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR086")
 					(unit 1)
@@ -46356,7 +46356,7 @@
 			(uuid "dbaec688-9f96-4c0c-8697-b63bce7ba04a")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R79")
 					(unit 1)
@@ -46520,7 +46520,7 @@
 			(uuid "56571acd-f8dc-43e6-a3fb-c423757d702d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R68")
 					(unit 1)
@@ -46697,7 +46697,7 @@
 			(uuid "d62e228b-3126-4357-9fe5-85738a9227b5")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C43")
 					(unit 1)
@@ -46861,7 +46861,7 @@
 			(uuid "6bd4fe39-aa69-4ea6-b2ce-c90285338f54")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R44")
 					(unit 1)
@@ -47024,7 +47024,7 @@
 			(uuid "39fee97a-33c7-4f87-ba00-696edde05c96")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R49")
 					(unit 1)
@@ -47135,7 +47135,7 @@
 			(uuid "b27d166e-41dc-4bfe-9ed7-14798dbd4ca1")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR062")
 					(unit 1)
@@ -47213,7 +47213,7 @@
 			(uuid "297e4dd3-149a-4a93-80d9-53b62d0c9cfb")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR071")
 					(unit 1)
@@ -47388,7 +47388,7 @@
 			(uuid "ef06377b-c211-4d7c-b65e-ac3a28971b6c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C41")
 					(unit 1)
@@ -47567,7 +47567,7 @@
 			(uuid "f68738bb-9bae-42bc-8d01-03447f90a64f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R81")
 					(unit 1)
@@ -47743,7 +47743,7 @@
 			(uuid "5cf3575b-6970-4ce6-83ec-091eccfd230d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R51")
 					(unit 1)
@@ -47920,7 +47920,7 @@
 			(uuid "9bf2fb00-6c48-4dff-a268-5b06e207140d")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C46")
 					(unit 1)
@@ -48097,7 +48097,7 @@
 			(uuid "93ca0460-92a8-4189-b4c5-098648e335ad")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C90")
 					(unit 1)
@@ -48274,7 +48274,7 @@
 			(uuid "b9629373-2a83-462d-b7f9-42394c9c4f13")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R54")
 					(unit 1)
@@ -48437,7 +48437,7 @@
 			(uuid "c814578f-b41f-4154-a507-8c3fa0a6e881")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R67")
 					(unit 1)
@@ -48967,7 +48967,7 @@
 			(uuid "e47b2ff3-dc10-489c-8bea-9e0ad58d5d57")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "U4")
 					(unit 2)
@@ -49101,7 +49101,7 @@
 			(uuid "d8e0b25c-3ee1-4d82-a76e-9021de8913e0")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP43")
 					(unit 1)
@@ -49276,7 +49276,7 @@
 			(uuid "4673f30c-8d1f-4367-b984-e473cd7c6b99")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C31")
 					(unit 1)
@@ -49411,7 +49411,7 @@
 			(uuid "d7c1013c-46e4-41b6-9d8a-d3f0ec5bbd97")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "TP27")
 					(unit 1)
@@ -49587,7 +49587,7 @@
 			(uuid "2f02bf3d-44a6-479a-8ee7-8de9d624973e")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R65")
 					(unit 1)
@@ -49730,7 +49730,7 @@
 			(uuid "cf5349c2-65f0-4de6-8697-23206fa4deb2")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "Q3")
 					(unit 1)
@@ -49883,7 +49883,7 @@
 			(uuid "37c259dd-3a07-459a-b3de-860f2cdd08a4")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "D6")
 					(unit 1)
@@ -50048,7 +50048,7 @@
 			(uuid "51cc2b20-ea51-4a76-a433-5c020e4e9a71")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R34")
 					(unit 1)
@@ -50213,7 +50213,7 @@
 			(uuid "d46baa2f-9054-48a8-880a-6c2daa8023ff")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R63")
 					(unit 1)
@@ -50324,7 +50324,7 @@
 			(uuid "e646cdd5-f70d-49cc-ad00-882a97987479")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR060")
 					(unit 1)
@@ -50487,7 +50487,7 @@
 			(uuid "d8419e2c-3f54-425e-bfc4-480275b74d12")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "R141")
 					(unit 1)
@@ -50598,7 +50598,7 @@
 			(uuid "d74ad497-ef8d-4077-91e7-24686c80362c")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR097")
 					(unit 1)
@@ -50709,7 +50709,7 @@
 			(uuid "8d0a36da-c089-451a-afdb-466d6d2f439f")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "#PWR073")
 					(unit 1)
@@ -50884,7 +50884,7 @@
 			(uuid "9c17a2f7-ac2e-4dd5-8614-9c6aa6387283")
 		)
 		(instances
-			(project "antmicro-jetson-orin-baseboard-pcie-switch-expansion-hw"
+			(project "jetson-orin-baseboard-pcie-switch-expansion"
 				(path "/9f8272ef-d62d-4578-9094-a2852fcd4bf4/0c5bb1ae-b7e6-4c57-a7b6-a015ad77bfee"
 					(reference "C44")
 					(unit 1)
